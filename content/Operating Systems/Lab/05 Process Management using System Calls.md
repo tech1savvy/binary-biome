@@ -1,7 +1,7 @@
 ---
 modified_time: 22-03-24, 12:07
 tags:
-  - cse325
+  - sem04/cse325
 ---
 # Exercise
 1. Write a C program to illustrate that performing 'n' consecutive `fork()` system calls generates a total of $2^n-1$ child processes. The program should prompt the user to input the value of 'n'.
