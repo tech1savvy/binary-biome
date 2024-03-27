@@ -22,30 +22,30 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Schibsted Grotesk", // font for headers
+        body: "Source Sans Pro", // for everything
+        code: "IBM Plex Mono", // for inline and block quotes
       },
       colors: {
         lightMode: {
-          light: "#eeeeee",
-          lightgray: "#bcbcbc",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#009E60",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#eeeeee", // page backgournd
+          lightgray: "#bcbcbc", // borders
+          gray: "#b8b8b8", // graph links, heavier borders
+          darkgray: "#4e4e4e", // body text
+          dark: "#2b2b2b", // header text and icons
+          secondary: "#009E60", // link colour, current graph node
+          tertiary: "#84a59d", // hover states and visited graph nodes
+          highlight: "rgba(143, 159, 169, 0.15)", // internal link background, highlighted text, high-lighted lines of code
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#10B981",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#161618", // page backgournd
+          lightgray: "#393639", // borders
+          gray: "#646464", // graph links, heavier borders
+          darkgray: "#d4d4d4", // body text
+          dark: "#ebebec", // header text and icons
+          secondary: "#009382", // link colour, current graph node
+          tertiary: "#84a59d", // hover states and visited graph nodes
+          highlight: "rgba(143, 159, 169, 0.15)", // internal link background, highlighted text, high-lighted lines of code
         },
       },
     },
