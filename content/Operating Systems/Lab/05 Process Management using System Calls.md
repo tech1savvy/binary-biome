@@ -4,7 +4,7 @@ tags:
   - sem04/cse325
 ---
 # Exercise
-1. Write a C program to illustrate that performing 'n' consecutive `fork()` system calls generates a total of $2^n-1$ child processes. The program should prompt the user to input the value of 'n'.
+> 1. Write a C program to illustrate that performing 'n' consecutive `fork()` system calls generates a total of $2^n-1$ child processes. The program should prompt the user to input the value of 'n'.
 ```c
 #include<stdio.h>
 #include<stdlib.h>
@@ -22,7 +22,7 @@ int main(){
 	}
 }
 ```
-2. Write a C program utilizing the `fork()` system call to generate the following process hierarchy: `P1->P2->P3`. The program should display the Process ID and Parent Process ID for each process created.
+> 2. Write a C program utilizing the `fork()` system call to generate the following process hierarchy: `P1->P2->P3`. The program should display the Process ID and Parent Process ID for each process created.
 ```c
 #include <stdio.h>
 #include <unistd.h>
@@ -44,7 +44,7 @@ int main(){
 	return 0;
 }
 ```
-3. Write a C program to generate a process hierarchy as follows and and also print the PID and PPID of each process.
+> 3. Write a C program to generate a process hierarchy as follows and and also print the PID and PPID of each process.
 ```
 P1 -> P2 -> P4 -> P5
 P1 -> P3
