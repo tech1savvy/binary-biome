@@ -1,9 +1,15 @@
 ---
+title: "jzhao.xyz"
+tags:
+  - evergreen
 ---
+<img src="./banner.svg" width="701" height="175">
 
-# Welcome
+```poetry
+Welcome!
+```
 
-> Checkout my notes on
+> Active Projects
 
 - [[Docker]]
 - [[Laravel]]
