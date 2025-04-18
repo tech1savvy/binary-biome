@@ -3,7 +3,7 @@ title: "jzhao.xyz"
 tags:
   - evergreen
 ---
-<img src="./banner.svg" width="701" height="175">
+<img src="https://jzhao.xyz/banner.svg" width="701" height="175">
 
 ```poetry
 Welcome!
