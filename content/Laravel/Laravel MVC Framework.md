@@ -1,26 +1,20 @@
 ---
-modified_time: 18-03-25, 17:13
+modified_time: 01-05-25, 10:23
 ---
-
 ## Introduction to MVC
+- MVC stands for ==Model-View-Controller==.
+- Model-View-Controller is a *software design pattern* that separates an application into three interconnected components:
+	- **Model:** manages data and business logic
+	- **View:** handles the user interface
+	- **Controller:** acts as a communication intermediary between model and view, processing requests and returning responses.
 
-MVC (Model-View-Controller) is a software design pattern that separates an application into three interconnected components:
-
-- **Model:** Manages ==data== and ==business logic==.
-- **View:** Handles the ==presentation layer (UI)==.
-- **Controller:** Acts as an ==intermediary== between Model and View, processing ==requests== and ==returning== responses.
-
-This structure improves code organization, scalability, and maintainability.
+This structure improves code structure, organization, scalability, and maintainability.
 
 ## Introduction to Laravel Framework
 
-Laravel is a PHP web application framework that follows the MVC pattern. It provides a clean and elegant syntax, along with powerful features such as:
-
 - **Eloquent ORM** for database handling.
-- **Blade templating engine** for ==dynamic== views.
-- **Routing system** for handling ==HTTP requests==.
-- **Middleware** for filtering HTTP requests.
-- **Authentication & Authorization** for security.
-- **Artisan command-line tool** for automation.
-
-Laravel simplifies web development by offering a structured and feature-rich environment for building robust applications.
+- **Blade templating engine** for dynamic views.
+- **Routing system** for handling HTTP requests.
+- **Middleware** support for filtering HTTP requests.
+- Built in options for **Authentication & Authorization** for security.
+- **Artisan command-line** support

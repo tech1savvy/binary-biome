@@ -1,5 +1,5 @@
 ---
-modified_time: 19-03-25, 00:58
+modified_time: 04-03-25, 09:51
 ---
 # Laravel Responses
 
@@ -76,16 +76,10 @@ Route::get('/dashboard', function () {
 });
 ```
 
-Redirecting To External Domains
-```php
-return redirect()->away('https://www.google.com');
-```
-
-
 ## Attaching Headers to Responses
 
 You can attach custom headers to responses:
-- In the context of HTTP responses, **headers** are key-value pairs sent by the server along with the response content. They provide additional information about the response or about the server itself.
+
 ```php
 return response("Hello, Laravel!")
     ->header('Content-Type', 'text/plain')

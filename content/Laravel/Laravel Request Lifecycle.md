@@ -1,31 +1,31 @@
 ---
-modified_time: 19-03-25, 01:03
+modified_time: 01-05-25, 11:25
 ---
 # Laravel Request Lifecycle
-
-```
-> publix/index.php
->> kernel.php : manges middleware
->>>> routes/web.php : requests handling and routing
->>>>>> controller : processes data based on request and logic
->>>>>>> response on view
-```
 
 ## Introduction
 
 The lifecycle defines how a request is processed from the moment it enters Laravel until a response is sent back to the client.
 
+![[Pasted image 20250501105557.png]]
+
 ## Steps in the Laravel Request Lifecycle
 
-### 1. Entry via `public/index.php` (==entry-point==)
+### 1. Entry via `public/index.php`
 
-Every Laravel request starts at `public/index.php`. This file initializes the framework and loads the application.
+- entry point for all requests. 
+- Its main job is to load Composer’s autoloader and then require the `bootstrap/app.php` file
 
 ### 2. Autoloading and Bootstrapping
 
-- `index.php` loads Composer’s autoloader.
-- The application instance is created from `bootstrap/app.php`.
-- The HTTP kernel is loaded.
+- The application instance is initialised and setup created from `bootstrap/app.php`.
+- finally, The `HTTP/Kernel.php` is loaded.
+
+- @ PHP does not keep the application in memory between requests (unlike some other platforms). Instead, each request starts a new PHP process, executes the code (including bootstrapping), and then returns a response before terminating. This makes every request independent and stateless.
+	- In summary:
+	    - Steps 1 and 2 happen every time a client loads a URL or makes a request to your Laravel app, not just when the server starts
+	    - This ensures that each request is handled in a clean environment.
+
 
 ### 3. HTTP Kernel Processing
 
@@ -42,10 +42,14 @@ Service providers handle the core bootstrapping of Laravel, including:
 - Database connections
 - Event handling
 
+- ! Aren't services and controllers doing the same thing?
+	- No, controller is for processing and manipulating data.
+	- But where services are special only for routing, database connection and event handling, which are core to the whole laravel app, not specific to something.
+
 ### 5. Routing and Middleware Execution
 
 - The request is sent to the `RouteServiceProvider`, which matches it with a defined route.
-- Middleware filters and modifies requests before they reach controllers.
+- **Middleware** *filters and modifies requests* before they reach controllers.
 
 ### 6. Controller Execution
 
@@ -63,5 +67,3 @@ Service providers handle the core bootstrapping of Laravel, including:
 - Headers, cookies, and HTTP status codes are finalized.
 
 ## Conclusion
-
-Laravel’s request lifecycle follows a structured path, ensuring flexibility, efficiency, and security. Understanding it helps developers optimize performance and troubleshoot issues effectively.

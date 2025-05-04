@@ -1,5 +1,5 @@
 ---
-modified_time: 18-03-25, 17:18
+modified_time: 04-03-25, 09:42
 ---
 # Installation
 - Composer
@@ -7,8 +7,3 @@ modified_time: 18-03-25, 17:18
 - PHP
 - SQLite
 - ... etc.
-
-# Command to create a new Laravel app
-```
-laravel new app
-```

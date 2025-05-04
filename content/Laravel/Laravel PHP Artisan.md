@@ -1,5 +1,5 @@
 ---
-modified_time: 18-03-25, 17:14
+modified_time: 01-05-25, 05:39
 ---
 # PHP Artisan
 
@@ -25,7 +25,8 @@ php artisan --version
 
 ### 2. Serve Application
 
-Start a ==development server==:
+Start a development server:
+
 ```bash
 php artisan serve
 ```

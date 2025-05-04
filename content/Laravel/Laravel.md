@@ -1,7 +1,7 @@
 ---
 aliases:
   - "#laravel"
-modified_time: 04-03-25, 10:20
+modified_time: 01-05-25, 05:39
 ---
 # Outline
 
@@ -15,15 +15,15 @@ modified_time: 04-03-25, 10:20
 ### Unit II: Request, Routing & Responses
 
 - [[Laravel Request Lifecycle]]
-- [[Laravel Routing]]
+- [[Routes]]
 - [[Laravel Views]]
 - [[Laravel Response]]:
 
 ### Unit III: Controllers, Blade and Advanced Routing
 
-- [[Laravel Controller]]
-- [[Laravel Blade Templating Engine]]
-- [[Laravel Routing]]
+- [[Controller]]
+- [[Blade Templating Engine]]
+- [[Routes]]
 
 ### Unit IV: URL Generation, Request Data, and Emails
 

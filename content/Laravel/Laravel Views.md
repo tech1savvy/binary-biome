@@ -1,12 +1,12 @@
 ---
-modified_time: 19-03-25, 00:43
-forward: "[[Laravel Blade Templating Engine]]"
+modified_time: 04-03-25, 09:41
+forward: "[[Blade Templating Engine]]"
 ---
 # Laravel Views
 
 ## Introduction to Views in Laravel
 
-Views in Laravel separate the ==presentation logic== from the application logic. They are stored in the ==`resources/views/`== directory and typically use the *Blade templating engine*.
+Views in Laravel separate the presentation logic from the application logic. They are stored in the `resources/views/` directory and typically use the Blade templating engine.
 
 ## Creating a View in Laravel
 
@@ -15,7 +15,7 @@ Views in Laravel separate the ==presentation logic== from the application logic.
 In Laravel version 10.23.0 and later, you can create a view using the built-in Artisan command:
 
 ```bash
-php artisan make:view <view-name>
+php artisan make:view example
 ```
 
 This command generates a new Blade view file named `example.blade.php` in the `resources/views` directory.
@@ -41,22 +41,12 @@ This command generates a new Blade view file named `example.blade.php` in the `r
 ## Returning a View in a Route or Controller
 
 To return a view from a route:
-- we use `view()` helper function.
+
 ```php
 Route::get('/welcome', function () {
     return view('welcome');
 });
 ```
-
-### Nested View
-- Views can be stored in subdirectories within `resources/views`.
-- Use *dot notation* to reference these views.
-- Example: 
-	- If the view is at `resources/views/admin/profile.blade.php`, reference it as:
- ```php
-return view('admin.profile');
-```
-
 
 ## Passing Data to Views
 
@@ -92,20 +82,6 @@ In `profile.blade.php`:
 <p>Age: {{ $age }}</p>
 ```
 
-### Using `with` helper function
-```php
-Route::get('/user',function(){
-    return view('user')
-    ->with('name','akon')
-    ->with('age',18);
-})
-```
+## Conclusion
 
-
-## Sharing Data with All Views
-- In boot method of `AppServiceProvider`, add
-```php
-public function boot(){
-	View->share('key', 'value');
-}
-```
+Views in Laravel help in structuring the frontend efficiently by separating presentation logic from application logic. They allow for reusable components and dynamic data handling.
