@@ -1,22 +1,32 @@
 ---
-modified_time: 05-05-25, 15:41
+modified_time: 05-05-25, 23:03
 ---
 # Content
 
-- [[DevOps Tools/Docker/Getting Started|Getting Started]]
+- [[DevOps/Docker/Getting Started|Getting Started]]
+- [[Containers]]
+- [[Images]]
+
 ## Persistent Storage
 - [[Volumes]]
 - [[Bind Mounts]]
+
+## Delarative Containrization
+- [[Dockerfile]]: single app
+- [[Compose]]: multiple services
 
 ## Orchestration
 - [[Docker Swarm]]
 	- [[Example]] 
 
 ## Use Cases
-- [[DevOps Tools/Docker/Use Cases/Nginx|Nginx]]
+- [[DevOps/Docker/Use Cases/Nginx|Nginx]]
 - [[Python]]
-- [[DevOps Tools/Docker/Use Cases/Java|Java]]
+- [[DevOps/Docker/Use Cases/Java|Java]]
 - [[Apache]]
+
+## [[Networks]] #done
+- [[Bridge]]
 
 # Resources
 ## Enable GPU Pass-through to Containers

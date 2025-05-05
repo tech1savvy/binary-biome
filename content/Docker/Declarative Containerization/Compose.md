@@ -1,42 +1,28 @@
 ---
-modified_time: 07-03-25, 13:57
+modified_time: 05-05-25, 23:34
 ---
-## Introduction to Docker Compose
+# Introduction
 
 Docker Compose is a tool for defining and running multi-container Docker applications. With a simple YAML file, you can configure multiple containers, define services, networks, and volumes, and manage everything with a single command.
 
-## Prerequisites
-
-Before using Docker Compose, ensure that:
-
-- Docker is installed on your system.
-- Docker Compose is installed. You can verify it using:
-    
-    ```sh
-    docker-compose --version
-    ```
-    
-
-## Installing Docker Compose
-
-### On Linux/macOS
-
-Run the following command to install Docker Compose:
-
 ```sh
-sudo curl -L "https://github.com/docker/compose/releases/latest/download/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
-sudo chmod +x /usr/local/bin/docker-compose
+docker compose --version
 ```
 
-### On Windows
+# Keywords
+- `version` specifies the Compose file format.
+- `services` defines your containers.
+- `environment` for configuration.
+- `volumes` for persistent storage.
+- `networks` for inter-service communication.
+- `depends_on` for service *startup order*.
 
-Docker Compose comes bundled with Docker Desktop. Simply install Docker Desktop from the official Docker website.
 
 ## Writing a Docker Compose File
 
 A `docker-compose.yml` file is used to define services. Here’s an example:
 
-```yaml
+```yml
 version: '3.8'
 
 services:
@@ -44,15 +30,36 @@ services:
     image: nginx:latest
     ports:
       - "8080:80"
+    networks:
+      - frontend # speficy same network in both services if want shared
+    depends_on:
+      - db
+    environment:
+      - NGINX_HOST=localhost
+    volumes:
+      - web_data:/usr/share/nginx/html # similary speficy same vol in both if want shared
+
   db:
     image: mysql:latest
     environment:
       MYSQL_ROOT_PASSWORD: example
+      MYSQL_DATABASE: appdb
+      MYSQL_USER: appuser
+      MYSQL_PASSWORD: apppass
     volumes:
       - db_data:/var/lib/mysql
+    networks:
+      - backend
 
 volumes:
   db_data:
+  web_data:
+
+networks:
+  frontend:
+    driver: bridge
+  backend:
+    driver: bridge
 ```
 
 This file defines two services:

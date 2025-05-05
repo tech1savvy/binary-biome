@@ -3,22 +3,11 @@ tags:
   - docker
   - containerization
   - review
-modified_time: 02-04-25, 12:44
+modified_time: 05-05-25, 16:56
 sr-due: 2025-02-28
 sr-interval: 3
 sr-ease: 250
 ---
-## Commands
-
-> `docker ps`
----
-Lists running containers with details like container ID, image, status, ports, and names.
-
-```sh
-docker ps  # Shows only running containers  
-docker ps -a  # Shows all containers (including stopped ones)  
-```
-
 # Container Creation
 ## 1. Pull Base Image
 
@@ -33,13 +22,13 @@ docker pull ubuntu  # Pulls the ubuntu:latest image
 List the images available locally to confirm the download.
 
 ```sh
-docker images  
+docker images
 ```
 
 ## 3. Run a Container
 
 Start a new container in detached mode, assign it a name, and expose port 8080.
-- **Detached Mode**: Runs a container in the background without attaching to its terminal. The container keeps running independently.
+- **Detached Mode**: Runs a container in the background without attaching to its terminal. The container keeps running independently even if you .
 
 ```sh
 docker run -it -d -p 8080:8080 --name my_container ubuntu  
@@ -83,30 +72,4 @@ Gracefully stop the running container.
 
 ```sh
 docker stop my_container  
-```
-
-## 9. Push Updated Image to Docker Hub
-
-### 9.1 Commit Changes to a New Image
-
-Save the container’s current state as a new image.
-
-```sh
-docker commit my_container my_username/my_image:latest  
-```
-
-### 9.2 Log in to Docker Hub
-
-Ensure you are authenticated before pushing the image.
-
-```sh
-docker login  
-```
-- Enter your **Docker Hub username and password** when prompted.
-### 9.3 Push the Image to Docker Hub
-
-Upload the new image to Docker Hub.
-
-```sh
-docker push my_username/my_image:latest  
 ```
