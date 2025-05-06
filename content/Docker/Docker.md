@@ -1,5 +1,5 @@
 ---
-modified_time: 05-05-25, 23:03
+modified_time: 06-05-25, 06:43
 ---
 # Content
 
@@ -7,7 +7,7 @@ modified_time: 05-05-25, 23:03
 - [[Containers]]
 - [[Images]]
 
-## Persistent Storage
+## Persistent Storage #done
 - [[Volumes]]
 - [[Bind Mounts]]
 
@@ -15,7 +15,7 @@ modified_time: 05-05-25, 23:03
 - [[Dockerfile]]: single app
 - [[Compose]]: multiple services
 
-## Orchestration
+## Orchestration #done
 - [[Docker Swarm]]
 	- [[Example]] 
 

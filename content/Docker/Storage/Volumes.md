@@ -1,7 +1,7 @@
 ---
 tags:
   - docker
-modified_time: 06-03-25, 13:28
+modified_time: 06-05-25, 06:35
 ---
 ### Docker Volumes Tutorial
 
@@ -23,8 +23,7 @@ To create a Docker volume:
 ```sh
 docker volume create my_volume
 ```
-
-#### Listing Volumes
+​Listing Volumes
 
 To see all available volumes:
 

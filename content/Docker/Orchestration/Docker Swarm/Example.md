@@ -1,7 +1,7 @@
 ---
 aliases:
   - "Hands-On Example: Deploying a Web App on Docker Swarm"
-modified_time: 28-03-25, 13:38
+modified_time: 06-05-25, 05:37
 ---
 ### **Hands-On Example: Deploying a Web App on Docker Swarm**
 

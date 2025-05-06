@@ -1,5 +1,5 @@
 ---
-modified_time: 04-05-25, 07:29
+modified_time: 06-05-25, 08:31
 ---
 In Jenkins **Declarative Pipelines**, the script is structured using various **blocks** that define how the pipeline behaves. Each block has a specific purpose, and knowing them helps you write clean, maintainable pipelines.
 
@@ -58,7 +58,7 @@ post {
 	success {
 		echo 'Job Succeeded!'
 	}
-	failur {
+	failure {
 		echo 'Job Failed!'
 	}
 }
@@ -68,7 +68,9 @@ post {
 - Set optional pipeline-level settings, like timeouts, retry policies, or disabling concurrent builds.
 ```groovy
 options {
+    // Aborts the entire pipeline if it runs longer than the specified time
 	timeout(time: 10, unit: 'MINUTES')
+	// Prevents multiple builds of this pipeline from running concurrently
 	disableConcurrentBuilds()
 }
 ```
@@ -78,6 +80,7 @@ options {
 ```groovy
 parameters {
 	string(name: 'BRANCH', defaultValue: 'main', description: 'Branch to build')
+	password(name: 'MY_SECRET', defaultValue: '', description: 'Enter your secret password')
 }
 ```
 
@@ -85,7 +88,16 @@ parameters {
 - set up automatic build triggers, like cron jobs or SCM polling.
 ```groovy
 triggers {
-    cron('H 0 * * *') // daily at a hashed time near midnight
+    // Scheduled build: every 10 minutes
+    cron('H/10 * * * *')
+    // Format: MINUTE HOUR DAY_OF_MONTH MONTH DAY_OF_WEEK
+	// Ex: 15 13 * * * - every day at 1:15 PM
+    
+    // Poll SCM: check for changes in the repository every 15 minutes
+    pollSCM('H/15 * * * *')
+    
+    // Upstream: trigger when 'job1' or 'job2' completes successfully
+    upstream(upstreamProjects: 'job1,job2', threshold: hudson.model.Result.SUCCESS)
 }
 ```
 
