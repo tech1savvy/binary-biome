@@ -1,0 +1,30 @@
+---
+modified_time: 22-05-25, 20:33
+---
+- **Data Protection Laws** – Regulate data collection, storage, and processing.  
+    - Ex:
+        - *GDPR*: General Data Protection Regulation
+        - *CCPA*: California Consumer Privacy Act
+        - *HIPAA*: Health Insurance Portability and Accountability Act
+- **Cybercrime Laws** – Prevent hacking, fraud, and identity theft.  
+    - Ex:
+        - *CFAA*: Computer Fraud and Abuse Act
+        - UK Computer Misuse Act
+- **Intellectual Property Laws** – Protect software, trademarks, and copyrights.  
+    - Ex:
+        - Copyright Act
+        - Patent Laws
+- **Compliance and Regulatory Laws** – Ensure businesses follow security standards.  
+    - Ex:
+        - *ISO* 27001: International Organization for Standardization 27001
+        - *PCI DSS*: Payment Card Industry Data Security Standard
+        - *SOX*: Sarbanes-Oxley Act
+- **Surveillance and Privacy Laws** – Balance national security with individual privacy.  
+    - Ex:
+        - *FISA*: Foreign Intelligence Surveillance Act
+        - *ECPA*: Electronic Communications Privacy Act
+        - *PRISM* regulations
+- **Contract and Liability Laws** – Govern security obligations in business agreements.  
+    - Ex:
+        - *NDA*: Non-Disclosure Agreement
+        - *SLAs*: Service Level Agreements in cybersecurity contracts
