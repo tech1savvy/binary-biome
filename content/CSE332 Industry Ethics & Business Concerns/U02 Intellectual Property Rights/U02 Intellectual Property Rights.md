@@ -1,7 +1,7 @@
 ---
 modified_time: 24-05-25, 10:31
 ---
-- [[Sem 06/CSE332 Industry Ethics & Business Concerns/U02 Intellectual Property Rights/Overview|Overview]]
+- [[CSE332 Industry Ethics & Business Concerns/U02 Intellectual Property Rights/Overview|Overview]]
   ![[Patents]]
 - [[Copyrights]]
 - [[Trade Secret]]
