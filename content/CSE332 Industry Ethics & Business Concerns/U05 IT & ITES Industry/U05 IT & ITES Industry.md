@@ -1,7 +1,7 @@
 ---
 modified_time: 24-05-25, 12:25
 ---
-- [[Sem 06/CSE332 Industry Ethics & Business Concerns/U05 IT & ITES Industry/Overview|Overview]]
+- [[CSE332 Industry Ethics & Business Concerns/U05 IT & ITES Industry/Overview|Overview]]
 - [[Product vs Service]]
 - [[NASSCOM]]
 - [[STPI]]
