@@ -2,7 +2,7 @@
 modified_time: 24-05-25, 08:57
 level: 1
 ---
-- [[Sem 06/CSE332 Industry Ethics & Business Concerns/U02 Intellectual Property Rights/Patents/Overview|Overview]]
+- [[CSE332 Industry Ethics & Business Concerns/U02 Intellectual Property Rights/Patents/Overview|Overview]]
 - [[Aim]]
 - [[Patentability]]
 - [[Application]]
