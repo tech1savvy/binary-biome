@@ -1,7 +1,7 @@
 ---
 modified_time: 24-05-25, 12:09
 ---
-- [[Sem 06/CSE332 Industry Ethics & Business Concerns/U03 Startups/Overview|Overview]]
+- [[CSE332 Industry Ethics & Business Concerns/U03 Startups/Overview|Overview]]
 - [[Startup Schemes]]
 	- [[Startup India]]
 	- [[1000 Startups - NASSCOM Initiative]]
