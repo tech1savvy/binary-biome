@@ -1,0 +1,37 @@
+---
+modified_time: 23-05-25, 14:07
+---
+- **Company Name**
+- **Founded**
+- **Location**
+- **Business Structure**: 
+	- <u>Sole proprietorship</u>: 
+		- A sole proprietorship is a business *owned* and *operated* *by* a single *individual*, where the owner is personally liable for all debts and obligations.
+		- Ex: A *freelance* graphic designer working independently.
+	- <u>LLC</u>: 
+		- LLC stands for *Limited Liability Company*.
+		- An LLC is a hybrid business structure that combines the limited liability protection of a corporation with the tax benefits and operational flexibility of a partnership.
+			- **Limited liability protection**: is a legal principle that limits the personal financial responsibility of business owners or shareholders to the amount they have invested in the business.
+				- > This means that if the business incurs debts or legal judgements, the personal assets of the owners—such as their homes, cars, or personal savings—are generally protected and cannot be used to satisfy business liabilities.
+		- Ex: A small IT consulting firm formed as an LLC.
+	- <u>Private Limited</u>: 
+		- A private limited company is a separate legal entity owned by a small group of shareholders, offering limited liability protection and restrictions on share transfers.
+- **Founders & Team**: Names and expertise.
+---
+- **Mission**
+- **Vision**
+---
+- **Market Analysis**
+	- *Industry Growth*
+	- *Target Market Needs*
+	- *Opportunities*
+- **Core Values**
+	- *Innovation* – Continuous tech advancements.
+	- *Customer-Centric Approach* – Prioritising client needs.
+	- *Integrity & Security* – Ensuring data protection.
+	- *Scalability & Efficiency* – Providing adaptable solutions.
+- **Contact Information**
+	- Company Website  
+	- Email  
+	- Phone  
+	- Address

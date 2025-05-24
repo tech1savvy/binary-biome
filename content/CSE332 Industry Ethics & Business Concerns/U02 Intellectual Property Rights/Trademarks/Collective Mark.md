@@ -1,0 +1,11 @@
+---
+modified_time: 24-05-25, 10:32
+---
+- *Owned by* a *group* or collective.
+- Identifies goods or services offered by members of the collective.
+- Distinguishes members' goods/services from those of non-members.
+- Also used to indicate membership in an organization.
+- **Examples**: 
+	- *CA* (Chartered Accountant) 
+		- ![[Pasted image 20250320001050.png|100]]
+	- *CPA* (Certified Public Accountant)

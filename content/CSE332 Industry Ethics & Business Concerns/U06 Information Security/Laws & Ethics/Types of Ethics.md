@@ -1,0 +1,11 @@
+---
+modified_time: 22-05-25, 20:35
+---
+- **Privacy Ethics** – Ensures responsible handling of user data.
+- **Hacking Ethics** – Differentiates *ethical hacking* (**white-hat**) from *malicious hacking* (**black-hat**).
+- **AI and Security Ethics** – Manages bias, transparency, and accountability in security AI.
+- **Corporate Ethics** – Defines security responsibilities of organisations.
+- **Whistleblowing Ethics** – Protects individuals reporting security violations.
+- **Cybersecurity Professional Ethics** – Guides IT professionals on ethical security practices.
+    - Ex:
+        - *ISC* (International Information System Security Certification Consortium) Code of Ethics

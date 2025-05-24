@@ -1,0 +1,11 @@
+---
+modified_time: 24-05-25, 08:00
+---
+- > Organisation to *fight Software Piracy*.
+- The Business Software Alliance (**BSA**) is a trade group representing the world’s largest software and hardware manufacturers.
+- Its mission is to stop the unauthorised copying of software produced by its members.
+- More than 100 BSA lawyers and investigators prosecute thousands of software piracy cases each year.
+- **BSA investigations** are **trigger**ed by:
+    - *Calls* to the BSA *hotline*.
+    - *Reports* submitted *to* the BSA *website* ([www.nopiracy.org](http://www.nopiracy.org/)).
+    - *Referrals* from member companies.
