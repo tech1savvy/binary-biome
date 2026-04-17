@@ -13,3 +13,7 @@ Welcome!
 > Life feels meaningless when no one is there to witness it.
 
 - Thus, this blog exists so my ideas, thoughts, and moments are witnessed.
+
+## Recent Logs
+
+- [[./blog/logs/Friday 17th April 2026]]
