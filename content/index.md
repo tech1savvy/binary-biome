@@ -4,7 +4,7 @@ tags:
   - evergreen
 ---
 
-<img src="https://jzhao.xyz/banner.svg" width="701" height="175">
+<img class="banner" src="https://jzhao.xyz/banner.svg" width="701" height="175">
 
 ```poetry
 Welcome!
