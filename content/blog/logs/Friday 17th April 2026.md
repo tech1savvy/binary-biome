@@ -1,6 +1,8 @@
 # Friday 17th April 2026
 
-## Daily Goal
+## Coding Stats
+
+### Daily Goal
 
 - **Goal:** Code 6 hrs per day except sunday
 - **Today:** 6 hrs 43 mins ✅ (43 mins over goal!)
