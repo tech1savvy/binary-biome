@@ -16,4 +16,4 @@ Welcome!
 
 ## Recent Logs
 
-- [[./blog/logs/Friday 17th April 2026]]
+- ![[./logs/Friday 17th April 2026]]
