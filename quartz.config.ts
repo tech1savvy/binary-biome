@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#ffffff", // page background (white)
-          lightgray: "#d3d3d3", // borders (light gray)
-          gray: "#708090", // graph links, heavier borders (slate gray)
-          darkgray: "#708090", // body text (slate gray)
-          dark: "#36454f", // header text and icons (charcoal)
-          secondary: "#36454f", // link colour, current graph node (charcoal)
-          tertiary: "#708090", // hover states and visited graph nodes (slate gray)
-          highlight: "rgba(54, 69, 79, 0.1)", // internal link background, highlighted text
-          textHighlight: "#36454f33", // markdown highlighted text background
+          light: "#eeeeee", // page background
+          lightgray: "#bcbcbc", // borders
+          gray: "#b8b8b8", // graph links, heavier borders
+          darkgray: "#4e4e4e", // body text
+          dark: "#2b2b2b", // header text and icons
+          secondary: "#009E60", // link colour, current graph node
+          tertiary: "#84a59d", // hover states and visited graph nodes
+          highlight: "rgba(143, 159, 169, 0.15)", // internal link background, highlighted text, high-lighted lines of code
+          textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#36454f", // page background (charcoal)
-          lightgray: "#2c3942", // borders (darker charcoal)
-          gray: "#708090", // graph links, heavier borders (slate gray)
-          darkgray: "#d3d3d3", // body text (light gray)
-          dark: "#ffffff", // header text and icons (white)
-          secondary: "#d3d3d3", // link colour, current graph node (light gray)
-          tertiary: "#708090", // hover states and visited graph nodes (slate gray)
-          highlight: "rgba(211, 211, 211, 0.15)", // internal link background, highlighted text
-          textHighlight: "#d3d3d333", // markdown highlighted text background
+          light: "#161618", // page background
+          lightgray: "#393639", // borders
+          gray: "#646464", // graph links, heavier borders
+          darkgray: "#d4d4d4", // body text
+          dark: "#ebebec", // header text and icons
+          secondary: "#009382", // link colour, current graph node
+          tertiary: "#84a59d", // hover states and visited graph nodes
+          highlight: "rgba(143, 159, 169, 0.15)", // internal link background, highlighted text, high-lighted lines of code
+          textHighlight: "#b3aa0288",
         },
       },
     },
