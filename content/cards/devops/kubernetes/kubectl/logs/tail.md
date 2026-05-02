@@ -2,7 +2,7 @@
 noteId: 1777715168498
 ---
 
-## How do I view only the last N lines of a Pod's logs?
+### How do I view only the last N lines of a Pod's logs?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1777712113289
 ---
 
-## How do I allocate custom resources limits for my Minikube cluster?
+### How do I allocate custom resources limits for my Minikube cluster?
 
 ---
 

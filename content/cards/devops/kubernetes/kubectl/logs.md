@@ -2,7 +2,7 @@
 noteId: 1777715168346
 ---
 
-## How do I view logs from a Pod with kubectl?
+### How do I view logs from a Pod with kubectl?
 
 ---
 

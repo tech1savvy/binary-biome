@@ -2,7 +2,7 @@
 noteId: 1777728481801
 ---
 
-## What is `spec` in a Kubernetes manifest?
+### What is `spec` in a Kubernetes manifest?
 
 ---
 

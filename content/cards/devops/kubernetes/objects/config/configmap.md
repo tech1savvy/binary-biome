@@ -2,7 +2,7 @@
 noteId: 1777728482172
 ---
 
-## What is a ConfigMap in Kubernetes?
+### What is a ConfigMap in Kubernetes?
 
 ---
 

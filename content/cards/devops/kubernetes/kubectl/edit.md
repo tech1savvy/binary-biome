@@ -2,7 +2,7 @@
 noteId: 1777715168155
 ---
 
-## How do I edit a live Kubernetes resource with kubectl?
+### How do I edit a live Kubernetes resource with kubectl?
 
 ---
 

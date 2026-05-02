@@ -2,7 +2,7 @@
 noteId: 1777715168393
 ---
 
-## How do I stream Pod logs in real-time with kubectl?
+### How do I stream Pod logs in real-time with kubectl?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1777728481761
 ---
 
-## What is `kind` in a Kubernetes manifest?
+### What is `kind` in a Kubernetes manifest?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1777712113315
 ---
 
-## How do I open the Kubernetes Dashboard for my Minikube cluster?
+### How do I open the Kubernetes Dashboard for my Minikube cluster?
 
 ---
 

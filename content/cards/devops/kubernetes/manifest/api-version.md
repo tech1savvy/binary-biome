@@ -2,7 +2,7 @@
 noteId: 1777728481741
 ---
 
-## What is `apiVersion` in a Kubernetes manifest?
+### What is `apiVersion` in a Kubernetes manifest?
 
 ---
 

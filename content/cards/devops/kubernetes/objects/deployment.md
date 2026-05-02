@@ -2,9 +2,8 @@
 noteId: 1777712113565
 ---
 
-# Deployment
 
-How do you manage replica sets and declarative updates to Pods?
+### How do you manage replica sets and declarative updates to Pods?
 
 ---
 

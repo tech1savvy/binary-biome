@@ -2,7 +2,7 @@
 noteId: 1777715168615
 ---
 
-## What is a ReplicaSet in Kubernetes?
+### What is a ReplicaSet in Kubernetes?
 
 ---
 

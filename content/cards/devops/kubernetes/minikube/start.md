@@ -2,7 +2,7 @@
 noteId: 1777712113390
 ---
 
-## How do I start a local Kubernetes cluster with Minikube?
+### How do I start a local Kubernetes cluster with Minikube?
 
 ---
 

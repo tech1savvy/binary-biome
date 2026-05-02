@@ -2,7 +2,7 @@
 noteId: 1777715168418
 ---
 
-## How do I view logs from a previous crashed container?
+### How do I view logs from a previous crashed container?
 
 ---
 

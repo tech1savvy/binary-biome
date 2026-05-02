@@ -2,7 +2,7 @@
 noteId: 1777712113640
 ---
 
-## How do I create a Deployment imperatively with kubectl?
+### How do I create a Deployment imperatively with kubectl?
 
 ---
 

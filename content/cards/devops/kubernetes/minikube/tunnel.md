@@ -2,7 +2,7 @@
 noteId: 1777712113465
 ---
 
-## How do I expose all Minikube services to the host?
+### How do I expose all Minikube services to the host?
 
 ---
 

@@ -2,9 +2,8 @@
 noteId: 1777712113764
 ---
 
-# Pod
 
-What is a Pod in Kubernetes?
+### What is a Pod in Kubernetes?
 
 ---
 

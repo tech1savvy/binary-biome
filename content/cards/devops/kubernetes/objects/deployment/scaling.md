@@ -2,7 +2,7 @@
 noteId: 1777728482297
 ---
 
-## How do I scale a Deployment?
+### How do I scale a Deployment?
 
 ---
 

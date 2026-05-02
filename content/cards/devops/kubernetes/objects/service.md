@@ -2,9 +2,8 @@
 noteId: 1777712113790
 ---
 
-# Service
 
-How do you expose Pods with a stable network endpoint?
+### How do you expose Pods with a stable network endpoint?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1777712113415
 ---
 
-## How do I check the status of my Minikube cluster?
+### How do I check the status of my Minikube cluster?
 
 ---
 

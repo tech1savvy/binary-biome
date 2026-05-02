@@ -2,9 +2,8 @@
 noteId: 1777712113689
 ---
 
-# Namespace
 
-How do you isolate resources within a Kubernetes cluster?
+### How do you isolate resources within a Kubernetes cluster?
 
 ---
 

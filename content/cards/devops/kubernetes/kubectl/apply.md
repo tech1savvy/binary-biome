@@ -2,7 +2,7 @@
 noteId: 1777728481409
 ---
 
-## How do I create or update resources from a YAML file?
+### How do I create or update resources from a YAML file?
 
 ---
 

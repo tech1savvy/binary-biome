@@ -2,7 +2,7 @@
 noteId: 1777712113440
 ---
 
-## How do I stop a running Minikube cluster without deleting it?
+### How do I stop a running Minikube cluster without deleting it?
 
 ---
 

@@ -2,7 +2,7 @@
 noteId: 1777715168273
 ---
 
-## How do I view extended information for Pods with kubectl?
+### How do I view extended information for Pods with kubectl?
 
 ---
 

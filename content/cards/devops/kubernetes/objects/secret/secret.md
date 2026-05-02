@@ -2,7 +2,7 @@
 noteId: 1777728482704
 ---
 
-## What is a Secret in Kubernetes?
+### What is a Secret in Kubernetes?
 
 ---
 

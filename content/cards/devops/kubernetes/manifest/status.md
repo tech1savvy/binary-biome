@@ -2,7 +2,7 @@
 noteId: 1777728481817
 ---
 
-## What is `status` in a Kubernetes manifest?
+### What is `status` in a Kubernetes manifest?
 
 ---
 

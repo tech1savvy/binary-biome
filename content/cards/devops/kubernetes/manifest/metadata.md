@@ -2,7 +2,7 @@
 noteId: 1777728481772
 ---
 
-## What is `metadata` in a Kubernetes manifest?
+### What is `metadata` in a Kubernetes manifest?
 
 ---
 

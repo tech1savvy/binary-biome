@@ -2,9 +2,8 @@
 noteId: 1777712113665
 ---
 
-# Ingress
 
-How do you manage external HTTP/HTTPS access to services?
+### How do you manage external HTTP/HTTPS access to services?
 
 ---
 

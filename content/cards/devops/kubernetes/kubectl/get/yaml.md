@@ -2,7 +2,7 @@
 noteId: 1777715168294
 ---
 
-## How do I view a resource's full YAML manifest with kubectl?
+### How do I view a resource's full YAML manifest with kubectl?
 
 ---
 

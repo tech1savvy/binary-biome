@@ -2,7 +2,7 @@
 noteId: 1777712113065
 ---
 
-## What is kubectl?
+### What is kubectl?
 
 ---
 

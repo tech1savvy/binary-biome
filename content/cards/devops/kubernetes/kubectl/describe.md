@@ -2,7 +2,7 @@
 noteId: 1777715168103
 ---
 
-## How do I get detailed information about a Kubernetes resource?
+### How do I get detailed information about a Kubernetes resource?
 
 ---
 

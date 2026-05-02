@@ -2,7 +2,7 @@
 noteId: 1777728482875
 ---
 
-## What is a LoadBalancer Service?
+### What is a LoadBalancer Service?
 
 ---
 

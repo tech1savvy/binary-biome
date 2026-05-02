@@ -2,7 +2,7 @@
 noteId: 1777715168168
 ---
 
-## How do I list Kubernetes resources with kubectl?
+### How do I list Kubernetes resources with kubectl?
 
 ---
 

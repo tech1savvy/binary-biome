@@ -2,9 +2,9 @@
 noteId: 1777712113741
 ---
 
-# PersistentVolume / PVC
+### PersistentVolume / PVC
 
-How do you manage persistent storage in Kubernetes?
+### How do you manage persistent storage in Kubernetes?
 
 ---
 

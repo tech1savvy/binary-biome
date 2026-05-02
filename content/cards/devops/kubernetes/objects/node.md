@@ -2,9 +2,8 @@
 noteId: 1777712113716
 ---
 
-# Node
 
-What is a Node in Kubernetes?
+### What is a Node in Kubernetes?
 
 ---
 

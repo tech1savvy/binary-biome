@@ -2,7 +2,7 @@
 noteId: 1777712113340
 ---
 
-## How do I completely remove a Minikube cluster and all its data?
+### How do I completely remove a Minikube cluster and all its data?
 
 ---
 
