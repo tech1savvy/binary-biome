@@ -25,3 +25,5 @@ spec:
 ---
 
 Use for production external access on cloud providers (AWS, GCP, Azure). The cloud LB gets its own public IP.
+
+**Note**: LoadBalancer = NodePort + cloud LB. Still has the internal cluster IP and node port.

@@ -6,7 +6,8 @@ noteId: 1777728482838
 
 ---
 
-The default Service type. Exposes the Service on a cluster-internal IP, reachable only from within the cluster.
+Exposes the Service on a cluster-internal IP, reachable only from within the cluster.
+- The default Service type. If no type is mentioned ClusterIP is created.
 
 ```yaml
 apiVersion: v1

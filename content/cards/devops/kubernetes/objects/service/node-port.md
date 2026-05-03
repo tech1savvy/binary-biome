@@ -18,11 +18,13 @@ spec:
   selector:
     app: my-app
   ports:
-  - port: 80
-    targetPort: 8080
-    nodePort: 30007
+  - port: 80          # service port
+    targetPort: 8080  # pod port
+    nodePort: 30007   # external port
 ```
 
 ---
 
 Use for quick external access or on-prem clusters without cloud load balancers. The port is accessible at `<NodeIP>:<nodePort>`.
+
+**Note**: NodePort = ClusterIP + static port on each node. Still has the internal cluster IP.
