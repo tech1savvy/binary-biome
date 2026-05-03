@@ -1,19 +1,17 @@
 ---
-noteId: 1777712113741
+noteId: 1777810378401
 ---
 
-### PersistentVolume / PVC
-
-### How do you manage persistent storage in Kubernetes?
+### What is a PersistentVolumeClaim (PVC)?
 
 ---
 
-**PersistentVolume (PV)**: Cluster-wide storage resource (backed by NFS, cloud disk, hostPath, etc.)
-
-**PersistentVolumeClaim (PVC)**: User request for storage that binds to a PV.
+- A request for storage
+- With dynamic provisioning, automatically creates a PV if none matches
+- Attached to a Pod like any other volume
 
 ```yaml
-# PersistentVolumeClaim (most common — cluster auto-provisions PV)
+# PVC — cluster auto-provisions the PV dynamically
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
@@ -41,13 +39,15 @@ spec:
       claimName: data-pvc
 ```
 
+---
+
 ## Access modes
 
 | Mode | Description |
 |---|---|
-| `ReadWriteOnce` | Mounted by a single node (read-write) |
-| `ReadOnlyMany` | Mounted by multiple nodes (read-only) |
-| `ReadWriteMany` | Mounted by multiple nodes (read-write) |
+| `ReadWriteOnce` | Single node (read-write) |
+| `ReadOnlyMany` | Multiple nodes (read-only) |
+| `ReadWriteMany` | Multiple nodes (read-write) |
 
 ## Lifecycle
 
