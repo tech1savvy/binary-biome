@@ -20,4 +20,4 @@ apiVersion: networking.k8s.io/v1  # Ingress
 
 ---
 
-Using the wrong version causes `no matches for kind` errors on `apply`. Check the [docs](https://kubernetes.io/docs/reference/) for the correct version per resource type.
+Using the wrong version causes `no matches for kind` errors on `apply`. Check the [API reference](https://kubernetes.io/docs/reference/kubernetes-api/) for the correct version per resource type.

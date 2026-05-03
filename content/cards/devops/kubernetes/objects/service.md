@@ -7,7 +7,7 @@ noteId: 1777712113790
 
 ---
 
-A **Service** provides a stable IP/DNS name that persists across Pod restarts, and load balances traffic to a set of Pods (selected by labels).
+A **Service** provides a stable IP/DNS endpoint that persists across Pod restarts, and load balances traffic to a set of Pods (selected by labels).
 
 Pods are ephemeral -- destroyed and recreated with new IPs. The Service stays at the same address so clients never break.
 
@@ -26,5 +26,6 @@ spec:
 
 ```bash
 kubectl get services
+kubectl get svc
 kubectl describe service <service-name>
 ```
