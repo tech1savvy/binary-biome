@@ -1,6 +1,7 @@
 ---
 noteId: 1778320495390
-forward: '[[aws-lake-formation-blueprint-concept]]'
+forward:
+  - "[[aws-lake-formation-blueprint-concept]]"
 ---
 
 # What are Lake Formation workflow blueprints?

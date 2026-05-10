@@ -1,6 +1,7 @@
 ---
 noteId: 1778320497916
-forward: '[[amazon-athena-quicksight-integration]]'
+forward:
+  - "[[amazon-athena-quicksight-integration]]"
 ---
 
 # What are the performance trade-offs of Athena Federated Queries?

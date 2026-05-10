@@ -1,6 +1,7 @@
 ---
 noteId: 1778320495539
-forward: '[[aws-lake-formation-security]]'
+forward:
+  - "[[aws-lake-formation-security]]"
 ---
 
 # What is credential vending in Lake Formation?

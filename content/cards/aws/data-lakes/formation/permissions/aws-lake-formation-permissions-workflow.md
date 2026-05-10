@@ -1,6 +1,7 @@
 ---
 noteId: 1778320495715
-forward: '[[aws-lake-formation-credential-vending]]'
+forward:
+  - "[[aws-lake-formation-credential-vending]]"
 ---
 
 # What is the Lake Formation permissions workflow?

@@ -1,6 +1,7 @@
 ---
 noteId: 1778320497715
-forward: '[[amazon-athena-federated-query-overview]]'
+forward:
+  - "[[amazon-athena-federated-query-overview]]"
 ---
 
 # How is Amazon Athena priced?

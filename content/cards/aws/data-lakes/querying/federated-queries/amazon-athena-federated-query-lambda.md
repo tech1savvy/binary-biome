@@ -1,6 +1,7 @@
 ---
 noteId: 1778320497865
-forward: '[[amazon-athena-serverless-queries]]'
+forward:
+  - "[[amazon-athena-serverless-queries]]"
 ---
 
 # How are Athena Federated Queries powered under the hood?

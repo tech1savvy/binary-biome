@@ -1,6 +1,7 @@
 ---
 noteId: 1778320497666
-forward: '[[amazon-athena-pricing]]'
+forward:
+  - "[[amazon-athena-pricing]]"
 ---
 
 # What is Amazon Athena?

@@ -1,6 +1,7 @@
 ---
 noteId: 1778320495265
-forward: '[[aws-lake-formation-core-goals]]'
+forward:
+  - "[[aws-lake-formation-core-goals]]"
 ---
 
 # What is AWS Lake Formation?

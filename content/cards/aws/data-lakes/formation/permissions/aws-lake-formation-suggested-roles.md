@@ -1,6 +1,7 @@
 ---
 noteId: 1778320495766
-forward: '[[aws-lake-formation-permissions-model]]'
+forward:
+  - "[[aws-lake-formation-permissions-model]]"
 ---
 
 # What are the suggested IAM roles for Lake Formation?
