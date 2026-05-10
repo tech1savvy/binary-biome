@@ -1,3 +1,7 @@
+---
+noteId: 1778392163222
+---
+
 ### 3. Network Traffic Monitoring
 
 ---

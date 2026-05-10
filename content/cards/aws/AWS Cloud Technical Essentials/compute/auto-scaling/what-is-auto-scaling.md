@@ -1,3 +1,7 @@
+---
+noteId: 1778392167922
+---
+
 ### What is Amazon EC2 Auto Scaling?
 
 ---

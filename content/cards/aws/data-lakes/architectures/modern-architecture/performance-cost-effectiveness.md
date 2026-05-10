@@ -2,7 +2,7 @@
 noteId: 1778320494739
 ---
 
-###### How do you achieve performance and cost effectiveness in a data lake?
+# How do you achieve performance and cost effectiveness in a data lake?
 
 ---
 

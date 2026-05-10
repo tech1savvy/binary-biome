@@ -1,3 +1,7 @@
+---
+noteId: 1778392165748
+---
+
 ### Core Capabilities
 
 ---

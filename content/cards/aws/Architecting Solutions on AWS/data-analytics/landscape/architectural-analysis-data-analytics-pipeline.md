@@ -1,3 +1,7 @@
+---
+noteId: 1778392159023
+---
+
 ### Architectural Analysis – Data Analytics Pipeline
 
 ---

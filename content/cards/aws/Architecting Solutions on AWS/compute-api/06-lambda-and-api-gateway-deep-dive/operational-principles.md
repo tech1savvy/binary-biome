@@ -1,3 +1,7 @@
+---
+noteId: 1778392157873
+---
+
 ### Operational Principles
 
 ---

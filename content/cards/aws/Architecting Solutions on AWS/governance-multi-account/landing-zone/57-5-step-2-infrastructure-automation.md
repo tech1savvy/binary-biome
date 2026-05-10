@@ -1,3 +1,7 @@
+---
+noteId: 1778392162923
+---
+
 ### Step 2 – Infrastructure Automation
 
 ---

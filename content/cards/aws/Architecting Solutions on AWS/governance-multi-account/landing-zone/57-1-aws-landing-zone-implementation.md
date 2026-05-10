@@ -1,3 +1,7 @@
+---
+noteId: 1778392162823
+---
+
 ### AWS Landing Zone Implementation
 
 ---

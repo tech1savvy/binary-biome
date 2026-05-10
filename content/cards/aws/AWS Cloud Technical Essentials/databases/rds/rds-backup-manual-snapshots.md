@@ -1,3 +1,7 @@
+---
+noteId: 1778392169523
+---
+
 ### What are Manual Snapshots in Amazon RDS?
 
 ---

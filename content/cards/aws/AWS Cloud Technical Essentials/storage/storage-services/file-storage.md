@@ -1,3 +1,7 @@
+---
+noteId: 1778392172849
+---
+
 ### What is File Storage?
 
 ---

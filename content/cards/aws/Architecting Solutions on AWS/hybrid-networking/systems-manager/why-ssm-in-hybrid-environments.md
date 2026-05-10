@@ -1,3 +1,7 @@
+---
+noteId: 1778392165848
+---
+
 ### Why SSM in Hybrid Environments
 
 ---

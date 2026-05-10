@@ -1,3 +1,7 @@
+---
+noteId: 1778392170773
+---
+
 ### What are the three challenges of multi-instance fleets and their solutions?
 
 ---

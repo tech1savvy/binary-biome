@@ -1,3 +1,7 @@
+---
+noteId: 1778392164948
+---
+
 ### NAT Gateway Types
 
 ---

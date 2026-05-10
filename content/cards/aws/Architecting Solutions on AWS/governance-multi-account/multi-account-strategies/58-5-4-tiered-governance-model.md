@@ -1,3 +1,7 @@
+---
+noteId: 1778392163872
+---
+
 ### 4. Tiered Governance Model
 
 ---

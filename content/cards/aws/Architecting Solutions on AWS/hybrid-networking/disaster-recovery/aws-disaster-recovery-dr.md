@@ -1,3 +1,7 @@
+---
+noteId: 1778392164373
+---
+
 ### AWS Disaster Recovery (DR)
 
 ---

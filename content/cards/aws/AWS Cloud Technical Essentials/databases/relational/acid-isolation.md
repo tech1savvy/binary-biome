@@ -1,3 +1,7 @@
+---
+noteId: 1778392169773
+---
+
 ### What is Isolation in ACID?
 
 ---

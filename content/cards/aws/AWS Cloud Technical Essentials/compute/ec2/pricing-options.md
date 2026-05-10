@@ -1,3 +1,7 @@
+---
+noteId: 1778392168723
+---
+
 ### What are the EC2 pricing options?
 
 ---

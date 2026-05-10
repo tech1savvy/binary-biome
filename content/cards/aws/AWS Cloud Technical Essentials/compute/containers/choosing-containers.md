@@ -1,3 +1,7 @@
+---
+noteId: 1778392168223
+---
+
 ### How do you choose between container compute platforms?
 
 ---

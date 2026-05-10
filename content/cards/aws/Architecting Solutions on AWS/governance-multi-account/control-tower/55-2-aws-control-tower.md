@@ -1,3 +1,7 @@
+---
+noteId: 1778392161923
+---
+
 ### AWS Control Tower
 
 ---

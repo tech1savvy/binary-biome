@@ -1,3 +1,7 @@
+---
+noteId: 1778392163573
+---
+
 ### 1. Workload Grouping
 
 ---

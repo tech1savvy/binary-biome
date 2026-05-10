@@ -1,3 +1,7 @@
+---
+noteId: 1778392161823
+---
+
 ### Role in Resiliency
 
 ---

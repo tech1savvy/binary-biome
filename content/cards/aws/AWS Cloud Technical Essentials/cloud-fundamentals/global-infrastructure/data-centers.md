@@ -1,3 +1,7 @@
+---
+noteId: 1778392167522
+---
+
 ### What is a data center?
 
 ---

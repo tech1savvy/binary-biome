@@ -2,7 +2,7 @@
 noteId: 1778320494715
 ---
 
-###### What outcomes does a modern data architecture on AWS enable?
+# What outcomes does a modern data architecture on AWS enable?
 
 ---
 

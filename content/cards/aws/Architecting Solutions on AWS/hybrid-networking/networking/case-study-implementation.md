@@ -1,3 +1,7 @@
+---
+noteId: 1778392165074
+---
+
 ### Case Study Implementation
 
 ---

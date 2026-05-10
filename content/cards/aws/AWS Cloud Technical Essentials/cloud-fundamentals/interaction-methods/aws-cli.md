@@ -1,3 +1,7 @@
+---
+noteId: 1778392167624
+---
+
 ### When is the AWS CLI best suited for use?
 
 ---

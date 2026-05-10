@@ -1,3 +1,7 @@
+---
+noteId: 1778392168573
+---
+
 ### What are the two block storage options for EC2?
 
 ---

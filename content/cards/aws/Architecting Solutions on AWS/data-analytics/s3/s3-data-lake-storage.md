@@ -1,3 +1,7 @@
+---
+noteId: 1778392159473
+---
+
 ### S3 – Data Lake Storage
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392158047
+---
+
 ### Final Serverless Data Analytics Architecture
 
 ---

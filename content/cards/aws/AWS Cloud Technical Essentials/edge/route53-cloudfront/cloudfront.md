@@ -1,3 +1,7 @@
+---
+noteId: 1778392170048
+---
+
 ### What is Amazon CloudFront?
 
 ---

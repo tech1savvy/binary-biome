@@ -1,3 +1,7 @@
+---
+noteId: 1778392167398
+---
+
 ### What is pay-as-you-go pricing?
 
 ---

@@ -2,7 +2,7 @@
 noteId: 1778320496314
 ---
 
-###### What are the three main data types for ingestion?
+# What are the three main data types for ingestion?
 
 ---
 

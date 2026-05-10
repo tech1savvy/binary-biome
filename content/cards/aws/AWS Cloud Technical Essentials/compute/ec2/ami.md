@@ -1,3 +1,7 @@
+---
+noteId: 1778392168398
+---
+
 ### What is an Amazon Machine Image (AMI)?
 
 ---

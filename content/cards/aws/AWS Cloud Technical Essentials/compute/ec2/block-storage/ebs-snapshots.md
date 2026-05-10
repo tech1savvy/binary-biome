@@ -1,3 +1,7 @@
+---
+noteId: 1778392168523
+---
+
 ### How do EBS Snapshots work?
 
 ---

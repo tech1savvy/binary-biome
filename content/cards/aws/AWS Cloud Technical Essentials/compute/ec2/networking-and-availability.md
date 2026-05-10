@@ -1,3 +1,7 @@
+---
+noteId: 1778392168697
+---
+
 ### How does EC2 handle networking and high availability?
 
 ---

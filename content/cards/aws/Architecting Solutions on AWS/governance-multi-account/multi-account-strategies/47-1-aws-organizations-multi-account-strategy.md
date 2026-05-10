@@ -1,3 +1,7 @@
+---
+noteId: 1778392163448
+---
+
 ### AWS Organizations & Multi-Account Strategy
 
 ---

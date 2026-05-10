@@ -1,3 +1,7 @@
+---
+noteId: 1778392161724
+---
+
 ### AWS CloudFormation (Infrastructure as Code)
 
 ---

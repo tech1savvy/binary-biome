@@ -1,3 +1,7 @@
+---
+noteId: 1778392160622
+---
+
 ### Design Strategy
 
 ---

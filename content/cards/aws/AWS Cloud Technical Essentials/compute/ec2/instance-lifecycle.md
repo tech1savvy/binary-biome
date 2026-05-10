@@ -1,3 +1,7 @@
+---
+noteId: 1778392168673
+---
+
 ### What are the key EC2 instance lifecycle concepts?
 
 ---

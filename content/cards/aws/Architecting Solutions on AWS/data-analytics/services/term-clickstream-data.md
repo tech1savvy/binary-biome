@@ -1,3 +1,7 @@
+---
+noteId: 1778392159772
+---
+
 ### Term: Clickstream Data
 
 ---

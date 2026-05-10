@@ -1,3 +1,7 @@
+---
+noteId: 1778392171148
+---
+
 ### What are the default behaviors of NACLs and Security Groups?
 
 ---

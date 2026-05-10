@@ -1,3 +1,7 @@
+---
+noteId: 1778392165123
+---
+
 ### High Availability Design
 
 ---

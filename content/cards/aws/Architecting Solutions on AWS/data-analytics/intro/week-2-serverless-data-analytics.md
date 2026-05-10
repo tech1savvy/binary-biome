@@ -1,3 +1,7 @@
+---
+noteId: 1778392158498
+---
+
 ### Week 2 – Serverless Data Analytics
 
 ---

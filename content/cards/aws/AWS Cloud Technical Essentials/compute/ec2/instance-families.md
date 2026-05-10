@@ -1,3 +1,7 @@
+---
+noteId: 1778392168649
+---
+
 ### What are the EC2 instance families?
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392168072
+---
+
 ### What is Amazon EC2 (Elastic Compute Cloud)?
 
 ---

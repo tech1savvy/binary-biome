@@ -1,3 +1,7 @@
+---
+noteId: 1778392169823
+---
+
 ### What is a fixed schema in relational databases?
 
 ---

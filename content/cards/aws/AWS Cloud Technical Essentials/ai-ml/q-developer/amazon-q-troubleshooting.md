@@ -1,3 +1,7 @@
+---
+noteId: 1778392167248
+---
+
 ### What troubleshooting capability does Amazon Q provide?
 
 ---

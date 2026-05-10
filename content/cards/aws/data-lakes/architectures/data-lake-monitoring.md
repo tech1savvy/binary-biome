@@ -2,7 +2,7 @@
 noteId: 1778320494190
 ---
 
-###### What monitoring tools are recommended for a data lake?
+# What monitoring tools are recommended for a data lake?
 
 ---
 

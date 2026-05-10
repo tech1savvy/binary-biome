@@ -1,3 +1,7 @@
+---
+noteId: 1778392165998
+---
+
 ### Hybrid Network Management
 
 ---

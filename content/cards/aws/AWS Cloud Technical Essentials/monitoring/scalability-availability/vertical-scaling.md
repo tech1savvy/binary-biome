@@ -1,3 +1,7 @@
+---
+noteId: 1778392170798
+---
+
 ### What is Vertical Scaling (Scaling Up)?
 
 ---

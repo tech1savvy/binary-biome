@@ -1,3 +1,7 @@
+---
+noteId: 1778392162798
+---
+
 ### Organizational Shift
 
 ---

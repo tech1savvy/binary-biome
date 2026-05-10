@@ -1,3 +1,7 @@
+---
+noteId: 1778392167997
+---
+
 ### How do you choose between EC2, Containers, and Lambda?
 
 ---

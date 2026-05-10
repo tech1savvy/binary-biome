@@ -1,3 +1,7 @@
+---
+noteId: 1778392167048
+---
+
 ### What is Continued Pre-training in Amazon Bedrock?
 
 ---

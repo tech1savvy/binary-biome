@@ -1,3 +1,7 @@
+---
+noteId: 1778392164872
+---
+
 ### High Availability Best Practice
 
 ---

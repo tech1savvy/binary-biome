@@ -1,3 +1,7 @@
+---
+noteId: 1778392166974
+---
+
 ### Week 4: Enterprise Governance
 
 ---

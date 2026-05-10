@@ -1,3 +1,7 @@
+---
+noteId: 1778392164747
+---
+
 ### Hybrid Migration Strategy – AnyCompany Insurance
 
 ---

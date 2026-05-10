@@ -1,3 +1,7 @@
+---
+noteId: 1778392168772
+---
+
 ### What are the two EC2 status checks?
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392170497
+---
+
 ### What is a Log Stream in CloudWatch Logs?
 
 ---

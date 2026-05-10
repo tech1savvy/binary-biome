@@ -1,3 +1,7 @@
+---
+noteId: 1778392158698
+---
+
 ### Final Architecture Choice
 
 ---

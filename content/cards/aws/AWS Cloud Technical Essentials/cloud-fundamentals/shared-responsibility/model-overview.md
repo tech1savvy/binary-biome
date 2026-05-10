@@ -1,3 +1,7 @@
+---
+noteId: 1778392167748
+---
+
 ### What is the Shared Responsibility Model?
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392159497
+---
+
 ### S3 – Replication, Lifecycle, Storage Classes
 
 ---

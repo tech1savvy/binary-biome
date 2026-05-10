@@ -1,3 +1,7 @@
+---
+noteId: 1778392162698
+---
+
 ### Case Study: Marketing Agency (Account Governance)
 
 ---

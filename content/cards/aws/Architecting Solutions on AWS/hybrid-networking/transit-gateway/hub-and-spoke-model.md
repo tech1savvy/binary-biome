@@ -1,3 +1,7 @@
+---
+noteId: 1778392165972
+---
+
 ### Hub-and-Spoke Model
 
 ---

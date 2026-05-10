@@ -1,3 +1,7 @@
+---
+noteId: 1778392172147
+---
+
 ### Which storage service for a MySQL database on EC2 requiring fast, durable, persistent storage?
 
 ---

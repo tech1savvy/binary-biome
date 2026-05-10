@@ -1,3 +1,7 @@
+---
+noteId: 1778392167772
+---
+
 ### What data responsibility do customers have?
 
 ---

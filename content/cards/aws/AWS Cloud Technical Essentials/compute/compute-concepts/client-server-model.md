@@ -1,3 +1,7 @@
+---
+noteId: 1778392168023
+---
+
 ### What is the client-server model?
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392164449
+---
+
 ### 4. Multi-Site Active/Active (Highest Resilience)
 
 ---

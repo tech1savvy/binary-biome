@@ -1,3 +1,7 @@
+---
+noteId: 1778392168047
+---
+
 ### What is Compute in AWS? What compute services does AWS offer?
 
 ---

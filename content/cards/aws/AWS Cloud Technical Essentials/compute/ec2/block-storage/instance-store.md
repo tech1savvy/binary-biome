@@ -1,3 +1,7 @@
+---
+noteId: 1778392168597
+---
+
 ### What is Amazon EC2 Instance Store?
 
 ---

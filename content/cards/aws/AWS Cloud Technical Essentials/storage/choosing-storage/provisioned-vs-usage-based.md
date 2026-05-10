@@ -1,3 +1,7 @@
+---
+noteId: 1778392172123
+---
+
 ### What is the difference between provisioned and usage-based billing in AWS storage?
 
 ---

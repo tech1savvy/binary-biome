@@ -1,3 +1,7 @@
+---
+noteId: 1778392169924
+---
+
 ### How is a relational database structured?
 
 ---

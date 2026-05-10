@@ -1,3 +1,7 @@
+---
+noteId: 1778392165148
+---
+
 ### Hybrid Networking – Connectivity Choice
 
 ---

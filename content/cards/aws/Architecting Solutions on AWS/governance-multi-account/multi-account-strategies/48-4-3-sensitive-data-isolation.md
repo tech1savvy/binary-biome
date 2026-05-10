@@ -1,3 +1,7 @@
+---
+noteId: 1778392163622
+---
+
 ### 3. Sensitive Data Isolation
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392157146
+---
+
 ### Current On-Prem Architecture
 
 ---

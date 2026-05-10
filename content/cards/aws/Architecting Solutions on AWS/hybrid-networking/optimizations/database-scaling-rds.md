@@ -1,3 +1,7 @@
+---
+noteId: 1778392165273
+---
+
 ### 3. Database Scaling (RDS)
 
 ---

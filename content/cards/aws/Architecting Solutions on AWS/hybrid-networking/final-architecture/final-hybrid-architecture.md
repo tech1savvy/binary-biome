@@ -1,3 +1,7 @@
+---
+noteId: 1778392164573
+---
+
 ### Final Hybrid Architecture
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392169873
+---
+
 ### What is Lift and Shift in the context of databases?
 
 ---

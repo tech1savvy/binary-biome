@@ -1,3 +1,7 @@
+---
+noteId: 1778392165772
+---
+
 ### Hybrid Architecture Toolset (Case Study)
 
 ---

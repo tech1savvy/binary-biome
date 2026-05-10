@@ -1,3 +1,7 @@
+---
+noteId: 1778392158748
+---
+
 ### Kinesis Data Firehose (KDF)
 
 ---

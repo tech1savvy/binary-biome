@@ -2,7 +2,7 @@
 noteId: 1778320498240
 ---
 
-###### What are Amazon S3's key strengths for data lakes?
+# What are Amazon S3's key strengths for data lakes?
 
 ---
 

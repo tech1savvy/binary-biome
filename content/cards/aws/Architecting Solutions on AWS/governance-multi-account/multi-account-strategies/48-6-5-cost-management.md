@@ -1,3 +1,7 @@
+---
+noteId: 1778392163673
+---
+
 ### 5. Cost Management
 
 ---

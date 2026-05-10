@@ -1,3 +1,7 @@
+---
+noteId: 1778392163998
+---
+
 ### Core Components
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392157348
+---
+
 ### Key Requirements — Networking
 
 ---

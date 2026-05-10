@@ -1,3 +1,7 @@
+---
+noteId: 1778392158923
+---
+
 ### Streams vs Firehose
 
 ---

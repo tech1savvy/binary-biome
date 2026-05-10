@@ -1,3 +1,7 @@
+---
+noteId: 1778392172373
+---
+
 ### How does encryption at rest work in S3?
 
 ---

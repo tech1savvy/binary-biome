@@ -1,3 +1,7 @@
+---
+noteId: 1778392169972
+---
+
 ### What types of applications commonly use relational databases?
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392169224
+---
+
 ### What are the two database storage options on AWS?
 
 ---

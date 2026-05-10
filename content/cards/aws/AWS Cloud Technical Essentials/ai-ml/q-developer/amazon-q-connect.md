@@ -1,3 +1,7 @@
+---
+noteId: 1778392167147
+---
+
 ### How does Amazon Q integrate with Amazon Connect?
 
 ---

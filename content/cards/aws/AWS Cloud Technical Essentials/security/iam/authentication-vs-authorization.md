@@ -1,3 +1,7 @@
+---
+noteId: 1778392171873
+---
+
 ### What is the difference between Authentication and Authorization in IAM?
 
 ---

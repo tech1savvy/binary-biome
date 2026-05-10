@@ -1,3 +1,7 @@
+---
+noteId: 1778392167648
+---
+
 ### When is the AWS Console best suited for use?
 
 ---

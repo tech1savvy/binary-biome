@@ -1,3 +1,7 @@
+---
+noteId: 1778392157547
+---
+
 ### Architecture (Phase 1)
 
 ---

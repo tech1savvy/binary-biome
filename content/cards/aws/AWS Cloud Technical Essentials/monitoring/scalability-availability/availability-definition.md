@@ -1,3 +1,7 @@
+---
+noteId: 1778392170723
+---
+
 ### What is Availability in the context of AWS?
 
 ---

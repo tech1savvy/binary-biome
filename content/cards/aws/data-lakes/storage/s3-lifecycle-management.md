@@ -2,7 +2,7 @@
 noteId: 1778320498191
 ---
 
-###### How can you optimize S3 storage costs for a data lake?
+# How can you optimize S3 storage costs for a data lake?
 
 ---
 

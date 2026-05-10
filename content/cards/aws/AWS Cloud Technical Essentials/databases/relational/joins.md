@@ -1,3 +1,7 @@
+---
+noteId: 1778392169848
+---
+
 ### What are Joins in relational databases?
 
 ---

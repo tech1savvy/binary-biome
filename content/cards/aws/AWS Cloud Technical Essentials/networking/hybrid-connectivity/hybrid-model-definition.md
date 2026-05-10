@@ -1,3 +1,7 @@
+---
+noteId: 1778392170922
+---
+
 ### What is a hybrid model in AWS?
 
 ---

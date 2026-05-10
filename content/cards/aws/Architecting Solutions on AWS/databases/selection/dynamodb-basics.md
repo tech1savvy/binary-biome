@@ -1,3 +1,7 @@
+---
+noteId: 1778392160423
+---
+
 ### DynamoDB Basics
 
 ---

@@ -2,7 +2,7 @@
 noteId: 1778320498115
 ---
 
-###### What are the common data types in a data lake?
+# What are the common data types in a data lake?
 
 ---
 

@@ -1,3 +1,7 @@
+---
+noteId: 1778392168923
+---
+
 ### What is Elastic Load Balancing (ELB)?
 
 ---

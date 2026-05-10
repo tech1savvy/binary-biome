@@ -1,3 +1,7 @@
+---
+noteId: 1778392171272
+---
+
 ### What analogy describes an ephemeral port?
 
 ---

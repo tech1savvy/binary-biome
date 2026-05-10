@@ -1,3 +1,7 @@
+---
+noteId: 1778392172348
+---
+
 ### What is the default access setting for everything in S3?
 
 ---

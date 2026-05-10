@@ -1,3 +1,7 @@
+---
+noteId: 1778392170323
+---
+
 ### What notification action can CloudWatch alarms trigger?
 
 ---

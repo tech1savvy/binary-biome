@@ -1,3 +1,7 @@
+---
+noteId: 1778392168148
+---
+
 ### What is a Virtual Machine (VM)?
 
 ---

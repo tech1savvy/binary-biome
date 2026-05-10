@@ -1,3 +1,7 @@
+---
+noteId: 1778392171698
+---
+
 # Week 1 Quiz: Getting Started with AWS Cloud (Answer Key)
 
 ### Question 1

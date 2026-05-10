@@ -1,3 +1,7 @@
+---
+noteId: 1778392167672
+---
+
 ### What are AWS SDKs used for?
 
 ---

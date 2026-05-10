@@ -1,3 +1,7 @@
+---
+noteId: 1778392165247
+---
+
 ### 4. Cost Optimization
 
 ---

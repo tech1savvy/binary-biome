@@ -1,3 +1,7 @@
+---
+noteId: 1778392167423
+---
+
 ### What is cloud computing?
 
 ---

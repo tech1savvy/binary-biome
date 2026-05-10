@@ -1,3 +1,7 @@
+---
+noteId: 1778392169123
+---
+
 ### What are the AWS database types and their services?
 
 ---

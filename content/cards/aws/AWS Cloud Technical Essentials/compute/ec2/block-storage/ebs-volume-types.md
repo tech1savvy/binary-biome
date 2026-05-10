@@ -1,3 +1,7 @@
+---
+noteId: 1778392168548
+---
+
 ### What are the EBS volume types?
 
 ---

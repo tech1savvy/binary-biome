@@ -1,3 +1,7 @@
+---
+noteId: 1778392172922
+---
+
 ### How do Block, File, and Object storage compare in scalability?
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392171723
+---
+
 # Week 2 Quiz: Compute & Networking (Study Questions)
 
 ### Question 1

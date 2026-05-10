@@ -1,3 +1,7 @@
+---
+noteId: 1778392167798
+---
+
 ### What does AWS handle under the Shared Responsibility Model?
 
 ---

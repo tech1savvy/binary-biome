@@ -1,3 +1,7 @@
+---
+noteId: 1778392163597
+---
+
 ### 2. Centralized Logging
 
 ---

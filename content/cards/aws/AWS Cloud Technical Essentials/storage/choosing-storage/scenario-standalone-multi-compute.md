@@ -1,3 +1,7 @@
+---
+noteId: 1778392172199
+---
+
 ### Which storage service for standalone / multi-compute access (e.g., transcoding media with Lambda)?
 
 ---

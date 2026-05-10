@@ -1,3 +1,7 @@
+---
+noteId: 1778392166924
+---
+
 ### Week 2: Serverless Data Analytics Pipeline
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392157998
+---
+
 ### Architecture Pipeline
 
 ---

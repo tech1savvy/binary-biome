@@ -1,3 +1,7 @@
+---
+noteId: 1778392165698
+---
+
 ### AWS Systems Manager (SSM)
 
 ---

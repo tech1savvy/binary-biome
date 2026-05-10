@@ -1,3 +1,7 @@
+---
+noteId: 1778392169148
+---
+
 ### What is the modern database strategy?
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392172873
+---
+
 ### What is Object Storage?
 
 ---

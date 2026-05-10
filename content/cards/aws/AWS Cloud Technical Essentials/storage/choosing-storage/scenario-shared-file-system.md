@@ -1,3 +1,7 @@
+---
+noteId: 1778392172173
+---
+
 ### Which storage service for a shared file system across multiple EC2 instances?
 
 ---

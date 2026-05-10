@@ -1,3 +1,7 @@
+---
+noteId: 1778392160648
+---
+
 ### Monolith → Decoupled Architecture
 
 ---

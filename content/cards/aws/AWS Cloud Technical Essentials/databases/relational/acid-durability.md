@@ -1,3 +1,7 @@
+---
+noteId: 1778392169748
+---
+
 ### What is Durability in ACID?
 
 ---

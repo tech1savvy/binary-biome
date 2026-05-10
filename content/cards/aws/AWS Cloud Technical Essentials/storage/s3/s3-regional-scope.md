@@ -1,3 +1,7 @@
+---
+noteId: 1778392172672
+---
+
 ### What determines the geographical location of an S3 bucket?
 
 ---

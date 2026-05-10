@@ -1,3 +1,7 @@
+---
+noteId: 1778392171772
+---
+
 # Week 4 Quiz: Monitoring and Optimization (Study Questions)
 
 ### Question 1

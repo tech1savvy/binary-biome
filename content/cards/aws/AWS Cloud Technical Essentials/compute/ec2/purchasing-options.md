@@ -1,3 +1,7 @@
+---
+noteId: 1778392168748
+---
+
 ### What are the payment options for Reserved Instances?
 
 ---

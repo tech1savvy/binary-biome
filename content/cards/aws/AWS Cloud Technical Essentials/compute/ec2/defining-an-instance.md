@@ -1,3 +1,7 @@
+---
+noteId: 1778392168623
+---
+
 ### What defines an EC2 instance?
 
 ---

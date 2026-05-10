@@ -1,3 +1,7 @@
+---
+noteId: 1778392161598
+---
+
 ### AWS Well-Architected Framework
 
 ---

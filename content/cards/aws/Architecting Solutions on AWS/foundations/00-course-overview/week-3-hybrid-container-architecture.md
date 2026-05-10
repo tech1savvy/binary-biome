@@ -1,3 +1,7 @@
+---
+noteId: 1778392161223
+---
+
 ### Week 3 — Hybrid Container Architecture
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392167323
+---
+
 ### How does cloud computing change spending on resources?
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392163247
+---
+
 ### 4. Operational Monitoring
 
 ---

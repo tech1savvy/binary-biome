@@ -1,3 +1,7 @@
+---
+noteId: 1778392165323
+---
+
 ### 5. Lambda Optimization Tools
 
 ---

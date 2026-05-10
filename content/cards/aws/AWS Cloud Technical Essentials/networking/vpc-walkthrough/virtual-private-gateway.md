@@ -1,3 +1,7 @@
+---
+noteId: 1778392171423
+---
+
 ### What does a Virtual Private Gateway (VGW) act as?
 
 ---

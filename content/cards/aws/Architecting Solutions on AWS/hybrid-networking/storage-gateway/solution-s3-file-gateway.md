@@ -1,3 +1,7 @@
+---
+noteId: 1778392165497
+---
+
 ### Solution: S3 File Gateway
 
 ---

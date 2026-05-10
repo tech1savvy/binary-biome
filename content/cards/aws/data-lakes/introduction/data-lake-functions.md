@@ -2,7 +2,7 @@
 noteId: 1778320496390
 ---
 
-###### What are the core functions of a data lake?
+# What are the core functions of a data lake?
 
 ---
 

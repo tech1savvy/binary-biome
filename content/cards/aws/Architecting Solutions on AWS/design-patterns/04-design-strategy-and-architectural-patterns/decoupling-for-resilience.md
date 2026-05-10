@@ -1,3 +1,7 @@
+---
+noteId: 1778392160573
+---
+
 ### Decoupling for Resilience
 
 ---

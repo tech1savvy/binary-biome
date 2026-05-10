@@ -2,7 +2,7 @@
 noteId: 1778320494491
 ---
 
-###### What are the three data movement scenarios in a data lake architecture?
+# What are the three data movement scenarios in a data lake architecture?
 
 ---
 

@@ -1,3 +1,7 @@
+---
+noteId: 1778392168472
+---
+
 ### How do Instance Store and EBS compare on connection, persistence, performance, and redundancy?
 
 ---

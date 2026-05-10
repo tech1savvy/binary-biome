@@ -1,3 +1,7 @@
+---
+noteId: 1778392163773
+---
+
 ### 1. IT Operating Models
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392167873
+---
+
 ### What are the benefits of Auto Scaling?
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392170598
+---
+
 ### What is a Time Period in CloudWatch alarms?
 
 ---

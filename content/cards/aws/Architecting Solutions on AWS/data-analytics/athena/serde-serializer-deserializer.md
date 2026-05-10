@@ -1,3 +1,7 @@
+---
+noteId: 1778392158248
+---
+
 ### SerDe (Serializer / Deserializer)
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392166223
+---
+
 ### Amazon SQS: Simple Queue Service
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392172223
+---
+
 ### Which storage service for temporary high-speed calculations where durability is not a priority?
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392170748
+---
+
 ### What is Horizontal Scaling (Scaling Out)?
 
 ---

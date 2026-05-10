@@ -1,3 +1,7 @@
+---
+noteId: 1778392170547
+---
+
 ### What is a Namespace in CloudWatch?
 
 ---

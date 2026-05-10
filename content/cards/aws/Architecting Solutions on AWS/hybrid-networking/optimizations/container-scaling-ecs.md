@@ -1,3 +1,7 @@
+---
+noteId: 1778392165222
+---
+
 ### 2. Container Scaling (ECS)
 
 ---

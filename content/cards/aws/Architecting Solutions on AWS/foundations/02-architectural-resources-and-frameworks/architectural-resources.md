@@ -1,3 +1,7 @@
+---
+noteId: 1778392161523
+---
+
 ### Architectural Resources
 
 ---

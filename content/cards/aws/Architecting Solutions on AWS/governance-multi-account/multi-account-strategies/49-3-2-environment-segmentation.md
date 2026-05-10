@@ -1,3 +1,7 @@
+---
+noteId: 1778392163797
+---
+
 ### 2. Environment Segmentation
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392163048
+---
+
 ### 3. Cost and Identity Controls
 
 ---

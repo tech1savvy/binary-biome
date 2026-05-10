@@ -2,8 +2,9 @@
 noteId: 1778320497341
 ---
 
-###### How did ETL work before AWS Glue?
+# How did ETL work before AWS Glue?
 
 ---
 
-You had to create a fleet of servers, maintain all software yourself, and piece together triggers to process data. AWS Glue eliminates this — serverless, handles the heavy lifting, you just define the job logic.
+- Before Glue: provision servers, maintain software, manually wire triggers
+- With Glue: serverless — define job logic only, Glue handles infrastructure

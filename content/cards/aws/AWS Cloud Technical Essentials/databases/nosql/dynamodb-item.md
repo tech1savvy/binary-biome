@@ -1,3 +1,7 @@
+---
+noteId: 1778392169323
+---
+
 ### What is an Item in DynamoDB?
 
 ---

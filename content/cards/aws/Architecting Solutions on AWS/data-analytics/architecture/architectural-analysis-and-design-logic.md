@@ -1,3 +1,7 @@
+---
+noteId: 1778392157973
+---
+
 ### Architectural Analysis and Design Logic
 
 ---

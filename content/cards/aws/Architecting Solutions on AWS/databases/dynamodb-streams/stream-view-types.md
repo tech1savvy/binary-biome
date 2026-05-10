@@ -1,3 +1,7 @@
+---
+noteId: 1778392160097
+---
+
 ### Stream View Types
 
 ---

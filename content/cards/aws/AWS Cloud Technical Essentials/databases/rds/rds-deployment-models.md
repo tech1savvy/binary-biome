@@ -1,3 +1,7 @@
+---
+noteId: 1778392169548
+---
+
 ### What are the three database deployment models on AWS?
 
 ---

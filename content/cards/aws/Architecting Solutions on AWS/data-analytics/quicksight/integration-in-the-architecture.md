@@ -1,3 +1,7 @@
+---
+noteId: 1778392159248
+---
+
 ### Integration in the Architecture
 
 ---

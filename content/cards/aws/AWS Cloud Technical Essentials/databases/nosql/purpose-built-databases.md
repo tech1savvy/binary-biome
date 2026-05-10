@@ -1,3 +1,7 @@
+---
+noteId: 1778392169422
+---
+
 ### What other purpose-built databases does AWS offer?
 
 ---

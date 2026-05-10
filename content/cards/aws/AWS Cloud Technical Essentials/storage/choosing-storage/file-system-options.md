@@ -1,3 +1,7 @@
+---
+noteId: 1778392172073
+---
+
 ### What are the managed file system options in AWS?
 
 ---

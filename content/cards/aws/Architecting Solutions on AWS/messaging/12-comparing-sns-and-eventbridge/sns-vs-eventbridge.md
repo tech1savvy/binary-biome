@@ -1,3 +1,7 @@
+---
+noteId: 1778392166622
+---
+
 ### SNS vs EventBridge
 
 ---

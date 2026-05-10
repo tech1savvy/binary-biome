@@ -1,3 +1,7 @@
+---
+noteId: 1778392172047
+---
+
 ### How do Instance Store, EBS, S3, EFS, and FSx compare?
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392159872
+---
+
 ### Common Use Cases
 
 ---

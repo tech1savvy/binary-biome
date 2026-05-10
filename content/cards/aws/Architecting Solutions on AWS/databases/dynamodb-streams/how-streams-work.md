@@ -1,3 +1,7 @@
+---
+noteId: 1778392160048
+---
+
 ### How Streams Work
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1778392170147
+---
+
 ### What does the ALARM state indicate in CloudWatch?
 
 ---

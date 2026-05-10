@@ -2,8 +2,10 @@
 noteId: 1778320496915
 ---
 
-###### How does Parquet optimize queries on sorted columns?
+# How does Parquet optimize queries on sorted columns?
 
 ---
 
-Parquet stores the first and last record of each data block. If data is sorted (e.g. names A-Z) and you query a specific value (e.g. `WHERE name = 'Alex'`), Parquet can skip blocks that don't fall in the matching range — only scanning blocks A-F instead of the entire table.
+- Parquet stores min/max values per data block (first and last record)
+- On sorted data, queries skip blocks outside the matching range
+- Example: names sorted A-Z, `WHERE name = 'Alex'` scans only A-F blocks, not the full table

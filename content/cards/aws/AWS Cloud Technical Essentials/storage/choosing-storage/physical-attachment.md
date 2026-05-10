@@ -1,3 +1,7 @@
+---
+noteId: 1778392172097
+---
+
 ### How does physical attachment differ between AWS storage services?
 
 ---

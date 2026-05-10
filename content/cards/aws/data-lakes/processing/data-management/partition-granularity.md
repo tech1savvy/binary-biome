@@ -2,10 +2,11 @@
 noteId: 1778320497115
 ---
 
-###### What is the coffee grinding analogy for partitioning and compaction?
+# What is the coffee grinding analogy for partitioning and compaction?
 
 ---
 
-Just as coffee is ground differently for different beverages, dataset structure (file sizing and partition granularity) should match how the data will be queried.
-
-Medium granularity is ideal — too coarse means scanning unnecessary data, too fine creates too many tiny files.
+- Like coffee grind size for different brews — partition granularity should match query patterns
+- Too coarse: scan unnecessary data
+- Too fine: too many tiny files, excessive S3 API calls
+- Medium granularity is ideal

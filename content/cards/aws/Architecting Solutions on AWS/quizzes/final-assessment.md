@@ -1,3 +1,7 @@
+---
+noteId: 1778392166748
+---
+
 ### Final Assessment: Architecting Solutions on AWS
 
 ---

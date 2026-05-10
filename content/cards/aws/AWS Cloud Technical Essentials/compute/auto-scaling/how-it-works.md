@@ -1,3 +1,7 @@
+---
+noteId: 1778392167898
+---
+
 ### How does Auto Scaling work?
 
 ---

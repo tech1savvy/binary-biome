@@ -1,3 +1,7 @@
+---
+noteId: 1778392157301
+---
+
 ### Case Study – AnyCompany Insurance (Hybrid Migration)
 
 ---

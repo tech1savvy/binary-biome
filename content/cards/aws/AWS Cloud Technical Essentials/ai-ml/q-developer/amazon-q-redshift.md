@@ -1,3 +1,7 @@
+---
+noteId: 1778392167223
+---
+
 ### How does Amazon Q integrate with Amazon Redshift?
 
 ---

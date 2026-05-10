@@ -1,3 +1,7 @@
+---
+noteId: 1778392163123
+---
+
 ### AWS Logging, Governance & Security Services
 
 ---

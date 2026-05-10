@@ -1,3 +1,7 @@
+---
+noteId: 1778392166648
+---
+
 ### When to Use EventBridge
 
 ---

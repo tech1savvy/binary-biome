@@ -1,3 +1,7 @@
+---
+noteId: 1778392169698
+---
+
 ### What is Atomicity in ACID?
 
 ---

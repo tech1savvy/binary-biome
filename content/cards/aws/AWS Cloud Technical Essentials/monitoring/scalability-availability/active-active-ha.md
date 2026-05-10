@@ -1,3 +1,7 @@
+---
+noteId: 1778392170674
+---
+
 ### What is Active-Active High Availability?
 
 ---

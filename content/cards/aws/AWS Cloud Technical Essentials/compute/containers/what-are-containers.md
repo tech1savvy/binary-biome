@@ -1,3 +1,7 @@
+---
+noteId: 1778392168323
+---
+
 ### What are containers and how do they compare to VMs?
 
 ---

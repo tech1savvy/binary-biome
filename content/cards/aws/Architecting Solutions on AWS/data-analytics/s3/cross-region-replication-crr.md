@@ -1,3 +1,7 @@
+---
+noteId: 1778392159398
+---
+
 ### Cross-Region Replication (CRR)
 
 ---
