@@ -159,6 +159,40 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
               }
             })
 
+            // process wikilinks found in frontmatter values
+            const fm = file.data.frontmatter
+            if (fm) {
+              const stemToSlug = new Map<string, FullSlug>()
+              for (const slug of ctx.allSlugs) {
+                const stem = slug.substring(slug.lastIndexOf("/") + 1)
+                if (!stemToSlug.has(stem)) stemToSlug.set(stem, slug)
+              }
+              const linkRe = /\[([^\]]*)\]\(([^)]*)\)|\[\[([^\]]*)\]\]/g
+              for (const val of Object.values(fm)) {
+                const strs: string[] = []
+                if (typeof val === "string") strs.push(val)
+                else if (Array.isArray(val)) strs.push(...val.filter((v): v is string => typeof v === "string"))
+                for (const str of strs) {
+                  linkRe.lastIndex = 0
+                  let m: RegExpExecArray | null
+                  while ((m = linkRe.exec(str)) !== null) {
+                    const raw = (m[1] !== undefined ? m[2] : m[3]) ?? ""
+                    if (raw.startsWith("http://") || raw.startsWith("https://") || raw.startsWith("#")) continue
+                    const clean = raw.replace(/\.md$/i, "")
+                    const resolved = stemToSlug.get(clean)
+                    if (resolved) outgoing.add(simplifySlug(resolved))
+                    else {
+                      try {
+                        const transformed = transformLink(file.data.slug!, clean as RelativeURL, transformOptions)
+                        const simple = simplifySlug(transformed as FullSlug)
+                        outgoing.add(simple)
+                      } catch {}
+                    }
+                  }
+                }
+              }
+            }
+
             file.data.links = [...outgoing]
           }
         },
