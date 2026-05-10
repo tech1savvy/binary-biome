@@ -1,7 +1,5 @@
 ---
 noteId: 1778320497891
-forward:
-  - "[[amazon-athena-lambda-integration]]"
 ---
 
 # What is an Athena Federated Query?
