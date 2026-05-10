@@ -1,0 +1,61 @@
+# Django Learning Path
+
+# Unit I: Introduction to Django
+- [ ] Learn basics of Django framework
+- [ ] Install Python and Django
+- [ ] Set up project in editor
+- [ ] Understand Projects and Apps overview
+- [ ] Study Project structure
+- [ ] Create your first project
+- [ ] Learn Django-admin & manage.py commands
+- [ ] Study App structures
+- [ ] Create your first App
+
+# Unit II: Views and URLs
+- [ ] Create views and map to URLs
+- [ ] Implement view logic
+- [ ] Learn about HTTP requests
+- [ ] Create Requests and Responses
+- [ ] Understand URLs
+- [ ] Map URLs with Parameters
+- [ ] Learn Regular expressions in URLs
+- [ ] Implement Error Handling
+
+# Unit III: Templates, Debugging and Testing
+- [ ] Learn about Templates in Django
+- [ ] Create Templates
+- [ ] Master Django Template Language (DTL)
+- [ ] Use template tags
+- [ ] Work with Django variables
+- [ ] Implement for loops and if-else statements
+- [ ] Create Dynamic Templates
+- [ ] Learn Template inheritance
+- [ ] Debug Django applications
+- [ ] Write tests in Django
+
+# Unit IV: Forms in Django
+- [ ] Learn Form basics
+- [ ] Master GET, POST and HTTP methods
+- [ ] Build forms using Django
+- [ ] Understand Cross Site Request Forgery (CSRF)
+- [ ] Implement CSRF protection
+- [ ] Set up POST redirect
+- [ ] Implement Data validation with Django forms
+
+# Unit V: Models, Migrations and Django Admin
+- [ ] Create models
+- [ ] Work with Migrations
+- [ ] Use Django Shell for Model operations
+- [ ] Learn Object Relational Mapping (ORM)
+- [ ] Implement Models with Foreign Keys
+- [ ] Set up Django Admin
+- [ ] Add groups and users
+- [ ] Configure user permissions
+- [ ] Set up database connection
+
+# Unit VI: Cookies, Sessions and Authentication
+- [ ] Create and manage Cookies
+- [ ] Work with Sessions
+- [ ] Implement User Management
+- [ ] Set up Login and Logout URLs
+- [ ] Integrate Django Login in Views

@@ -1,4 +1,5 @@
 ---
+noteId: 1777822470546
 ---
 
 ### How do you set a default namespace for kubectl?

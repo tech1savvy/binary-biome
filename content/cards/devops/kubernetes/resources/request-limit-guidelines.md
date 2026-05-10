@@ -1,4 +1,5 @@
 ---
+noteId: 1777822470695
 ---
 
 ### How do I set resource requests and limits for autoscaling?

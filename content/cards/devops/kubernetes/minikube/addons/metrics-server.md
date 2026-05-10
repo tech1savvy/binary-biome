@@ -1,4 +1,5 @@
 ---
+noteId: 1777822470446
 ---
 
 ### How do I enable metrics in Minikube?

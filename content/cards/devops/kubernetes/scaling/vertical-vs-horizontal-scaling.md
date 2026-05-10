@@ -1,4 +1,5 @@
 ---
+noteId: 1777822470845
 ---
 
 ### What is vertical vs horizontal scaling?

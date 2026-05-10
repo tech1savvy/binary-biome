@@ -1,4 +1,5 @@
 ---
+noteId: 1777822470372
 ---
 
 ### How do I check resource usage of pods and nodes?

@@ -8,5 +8,9 @@ serve port="8080":
   npx quartz build --serve --port {{port}}
 
 cards:
-  rsync -av --delete ~/cards/devops/ ~/devbook/binary-biome/content/cards/devops/
-
+  rsync -av --delete \
+    --exclude-from=.gitignore \
+    --exclude=.git/ \
+    --exclude=*.mdx \
+    ~/cards/ \
+    ~/devbook/binary-biome/content/cards/

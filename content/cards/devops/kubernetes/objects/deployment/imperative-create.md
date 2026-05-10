@@ -17,4 +17,4 @@ kubectl create deployment my-app --image=nginx:latest --port=80
 
 ---
 
-Creates a Deployment and underlying ReplicaSet + Pods in one command. Use `kubectl apply -f <file.yaml>` for declarative management.
+Creates a Deployment and underlying ReplicaSet + Pods in one command.

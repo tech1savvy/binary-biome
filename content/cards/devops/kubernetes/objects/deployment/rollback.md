@@ -21,7 +21,6 @@ kubectl rollout undo deployment/<name>
 Rollback to a specific revision:
 
 ```bash
-kubectl rollout history deployment/<name>
 kubectl rollout undo deployment/<name> --to-revision=2
 ```
 
