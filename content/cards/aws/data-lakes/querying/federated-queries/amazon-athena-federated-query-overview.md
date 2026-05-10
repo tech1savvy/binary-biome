@@ -1,6 +1,6 @@
 ---
 noteId: 1778320497891
-siblings: ['[[amazon-athena-federated-query-lambda]]', '[[amazon-athena-federated-query-security]]', '[[amazon-athena-federated-query-performance]]']
+forward: '[[amazon-athena-lambda-integration]]'
 ---
 
 # What is an Athena Federated Query?

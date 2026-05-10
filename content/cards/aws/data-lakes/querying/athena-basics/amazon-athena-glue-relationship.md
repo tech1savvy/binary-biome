@@ -1,6 +1,5 @@
 ---
 noteId: 1778320497691
-siblings: ['[[amazon-athena-overview]]', '[[amazon-athena-serverless-queries]]', '[[amazon-athena-supported-formats]]', '[[amazon-athena-pricing]]']
 ---
 
 # How do Athena and AWS Glue Data Catalog relate?

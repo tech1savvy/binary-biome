@@ -1,7 +1,6 @@
 ---
 noteId: 1778320497916
 forward: '[[amazon-athena-quicksight-integration]]'
-siblings: ['[[amazon-athena-federated-query-overview]]', '[[amazon-athena-federated-query-lambda]]', '[[amazon-athena-federated-query-security]]']
 ---
 
 # What are the performance trade-offs of Athena Federated Queries?

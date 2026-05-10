@@ -1,5 +1,6 @@
 ---
 noteId: 1778320495615
+forward: '[[aws-lake-formation-lf-tags]]'
 ---
 
 # How does Lake Formation's fine-grained access control work?

@@ -1,5 +1,6 @@
 ---
 noteId: 1778320495464
+forward: '[[aws-lake-formation-workflow-definition]]'
 ---
 
 # What are the three steps to set up a data lake with Lake Formation?

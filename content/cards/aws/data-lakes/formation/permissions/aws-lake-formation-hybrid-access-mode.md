@@ -1,5 +1,6 @@
 ---
 noteId: 1778320495640
+forward: '[[aws-lake-formation-permissions-workflow]]'
 ---
 
 # What is Lake Formation hybrid access mode?

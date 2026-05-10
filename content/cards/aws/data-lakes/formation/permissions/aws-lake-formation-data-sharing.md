@@ -1,5 +1,6 @@
 ---
 noteId: 1778320495590
+forward: '[[aws-lake-formation-cross-account-sharing]]'
 ---
 
 # How does Lake Formation share data across accounts?

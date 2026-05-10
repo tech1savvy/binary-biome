@@ -1,5 +1,6 @@
 ---
 noteId: 1778320495341
+forward: '[[aws-lake-formation-blueprint-setup]]'
 ---
 
 # What is an AWS Lake Formation blueprint?

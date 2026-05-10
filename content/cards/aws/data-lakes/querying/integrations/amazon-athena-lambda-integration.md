@@ -1,6 +1,5 @@
 ---
 noteId: 1778320498015
-siblings: ['[[amazon-athena-quicksight-integration]]']
 ---
 
 # How can Athena integrate with Lambda and API Gateway?

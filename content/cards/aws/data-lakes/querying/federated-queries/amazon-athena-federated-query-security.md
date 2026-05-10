@@ -1,6 +1,5 @@
 ---
 noteId: 1778320497940
-siblings: ['[[amazon-athena-federated-query-overview]]', '[[amazon-athena-federated-query-lambda]]', '[[amazon-athena-federated-query-performance]]']
 ---
 
 # How do Athena Federated Queries handle security?

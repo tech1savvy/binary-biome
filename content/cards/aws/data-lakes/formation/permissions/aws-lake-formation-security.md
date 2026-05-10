@@ -1,5 +1,6 @@
 ---
 noteId: 1778320495740
+forward: '[[aws-lake-formation-data-sharing]]'
 ---
 
 # How does Lake Formation handle security and encryption?

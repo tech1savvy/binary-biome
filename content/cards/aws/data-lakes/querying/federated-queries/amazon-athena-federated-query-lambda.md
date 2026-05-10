@@ -1,6 +1,6 @@
 ---
 noteId: 1778320497865
-siblings: ['[[amazon-athena-federated-query-overview]]', '[[amazon-athena-federated-query-security]]', '[[amazon-athena-federated-query-performance]]']
+forward: '[[amazon-athena-serverless-queries]]'
 ---
 
 # How are Athena Federated Queries powered under the hood?

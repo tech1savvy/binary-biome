@@ -1,6 +1,5 @@
 ---
 noteId: 1778320497741
-siblings: ['[[amazon-athena-overview]]', '[[amazon-athena-glue-relationship]]', '[[amazon-athena-supported-formats]]', '[[amazon-athena-pricing]]']
 ---
 
 # How does Amazon Athena query a data lake?

@@ -1,7 +1,6 @@
 ---
 noteId: 1778320497666
 forward: '[[amazon-athena-pricing]]'
-siblings: ['[[amazon-athena-serverless-queries]]', '[[amazon-athena-glue-relationship]]', '[[amazon-athena-supported-formats]]', '[[amazon-athena-pricing]]']
 ---
 
 # What is Amazon Athena?

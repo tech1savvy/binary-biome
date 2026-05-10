@@ -1,5 +1,6 @@
 ---
 noteId: 1778320495664
+forward: '[[aws-lake-formation-hybrid-access-mode]]'
 ---
 
 # What are LF-tags in Lake Formation?

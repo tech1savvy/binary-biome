@@ -1,6 +1,5 @@
 ---
 noteId: 1778320498040
-siblings: ['[[amazon-athena-lambda-integration]]']
 ---
 
 # How does Athena integrate with Amazon QuickSight?

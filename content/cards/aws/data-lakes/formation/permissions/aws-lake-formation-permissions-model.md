@@ -1,5 +1,6 @@
 ---
 noteId: 1778320495690
+forward: '[[aws-lake-formation-fine-grained-acl]]'
 ---
 
 # What is the Lake Formation permissions model?

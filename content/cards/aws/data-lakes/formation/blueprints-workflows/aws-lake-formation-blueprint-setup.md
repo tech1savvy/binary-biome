@@ -1,5 +1,6 @@
 ---
 noteId: 1778320495364
+forward: '[[aws-lake-formation-suggested-roles]]'
 ---
 
 # What are the steps to set up a Lake Formation blueprint?
