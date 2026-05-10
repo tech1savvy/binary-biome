@@ -1,5 +1,7 @@
 ---
 noteId: 1778320495839
+forward:
+  - "[[file-ingestion-services]]"
 ---
 
 # What AWS services can ingest data into a data lake?

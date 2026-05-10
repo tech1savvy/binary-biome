@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497390
+forward:
+  - "[[lambda-trigger]]"
 ---
 
 # What are the three ways to trigger an AWS Glue job?

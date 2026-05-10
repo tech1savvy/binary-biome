@@ -1,5 +1,7 @@
 ---
 noteId: 1778320495014
+forward:
+  - "[[schema-inference]]"
 ---
 
 # What are AWS Glue classifiers?

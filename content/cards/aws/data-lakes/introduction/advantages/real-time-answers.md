@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496789
+forward:
+  - "[[democratization-of-data]]"
 ---
 
 # How do data lakes enable real-time answers?

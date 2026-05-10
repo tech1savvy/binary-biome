@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497265
+forward:
+  - "[[glue-studio-visual-workflow]]"
 ---
 
 # How does AWS Glue handle data masking for privacy?

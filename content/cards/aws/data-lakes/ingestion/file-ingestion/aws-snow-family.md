@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496091
+forward:
+  - "[[transactional-data-ingestion]]"
 ---
 
 # What is the AWS Snow Family?

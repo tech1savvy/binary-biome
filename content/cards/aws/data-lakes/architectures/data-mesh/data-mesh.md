@@ -1,5 +1,7 @@
 ---
 noteId: 1778320494339
+forward:
+  - "[[data-mesh-multi-account]]"
 ---
 
 # What is a data mesh?

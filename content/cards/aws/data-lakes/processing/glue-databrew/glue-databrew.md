@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497190
+forward:
+  - "[[glue-databrew-profiler]]"
 ---
 
 # What is AWS Glue DataBrew?

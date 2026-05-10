@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497016
+forward:
+  - "[[encryption-s3]]"
 ---
 
 # What is data compaction?

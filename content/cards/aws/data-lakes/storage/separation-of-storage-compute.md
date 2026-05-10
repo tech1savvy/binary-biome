@@ -1,5 +1,7 @@
 ---
 noteId: 1778320498265
+forward:
+  - "[[s3-strengths]]"
 ---
 
 # What does separating storage from compute mean for data lakes?

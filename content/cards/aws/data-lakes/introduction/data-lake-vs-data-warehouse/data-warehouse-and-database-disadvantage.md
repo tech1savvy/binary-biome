@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496590
+forward:
+  - "[[schema-on-write-vs-schema-on-read]]"
 ---
 
 # Why not just store everything in a database or data warehouse?

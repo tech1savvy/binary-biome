@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497290
+forward:
+  - "[[glue-etl-phases]]"
 ---
 
 # What does AWS Glue ETL do?

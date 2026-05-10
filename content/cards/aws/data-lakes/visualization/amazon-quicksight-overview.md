@@ -1,5 +1,7 @@
 ---
 noteId: 1778320498341
+forward:
+  - "[[data-gravity]]"
 ---
 
 # What problem does Amazon QuickSight solve?

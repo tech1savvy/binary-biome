@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496291
+forward:
+  - "[[streaming-ingestion/amazon-kinesis]]"
 ---
 
 # What AWS service handles streaming data ingestion?

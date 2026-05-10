@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496614
+forward:
+  - "[[target-users]]"
 ---
 
 # How does data quality differ between data warehouse and data lake?

@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497041
+forward:
+  - "[[compaction]]"
 ---
 
 # What is data compression and which algorithms are common?

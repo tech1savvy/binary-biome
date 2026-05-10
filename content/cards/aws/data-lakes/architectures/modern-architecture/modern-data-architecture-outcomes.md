@@ -1,5 +1,7 @@
 ---
 noteId: 1778320494715
+forward:
+  - "[[scalable-data-lake-services]]"
 ---
 
 # What outcomes does a modern data architecture on AWS enable?

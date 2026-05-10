@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496640
+forward:
+  - "[[data-warehouse-and-database-disadvantage]]"
 ---
 
 # What is a data warehouse?

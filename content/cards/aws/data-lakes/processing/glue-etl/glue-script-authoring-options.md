@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497440
+forward:
+  - "[[glue-data-masking]]"
 ---
 
 # What are the three ways to author AWS Glue ETL scripts?

@@ -1,5 +1,7 @@
 ---
 noteId: 1778320494415
+forward:
+  - "[[around-perimeter-reporting-example]]"
 ---
 
 # What is around-the-perimeter data movement?

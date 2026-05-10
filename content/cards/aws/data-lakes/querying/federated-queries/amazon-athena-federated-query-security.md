@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497940
+forward:
+  - "[[amazon-athena-federated-query-performance]]"
 ---
 
 # How do Athena Federated Queries handle security?

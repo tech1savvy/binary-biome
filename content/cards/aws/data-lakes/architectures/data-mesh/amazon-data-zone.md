@@ -1,5 +1,7 @@
 ---
 noteId: 1778320494265
+forward:
+  - "[[well-architected-framework]]"
 ---
 
 # What is Amazon Data Zone?

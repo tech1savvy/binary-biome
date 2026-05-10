@@ -1,5 +1,7 @@
 ---
 noteId: 1778320494315
+forward:
+  - "[[data-as-a-product]]"
 ---
 
 # How does multi-account strategy support data mesh?

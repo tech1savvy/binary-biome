@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496166
+forward:
+  - "[[purpose-of-cataloging]]"
 ---
 
 # What is the difference between raw and transformed data?

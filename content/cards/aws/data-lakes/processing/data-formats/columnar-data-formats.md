@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496864
+forward:
+  - "[[row-vs-columnar-storage]]"
 ---
 
 # What are columnar data formats and why use them?

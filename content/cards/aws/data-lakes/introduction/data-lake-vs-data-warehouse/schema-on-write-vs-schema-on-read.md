@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496664
+forward:
+  - "[[cost-comparison]]"
 ---
 
 # What is schema-on-write vs schema-on-read?

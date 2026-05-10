@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496115
+forward:
+  - "[[aws-snow-family]]"
 ---
 
 # What does AWS Transfer Family do?

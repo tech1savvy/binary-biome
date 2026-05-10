@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496490
+forward:
+  - "[[data-warehouse-definition]]"
 ---
 
 # What is a data lake?

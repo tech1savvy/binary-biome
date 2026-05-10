@@ -1,5 +1,7 @@
 ---
 noteId: 1778320494690
+forward:
+  - "[[modern-data-architecture-outcomes]]"
 ---
 
 # What are the key categories of modern data architecture on AWS?

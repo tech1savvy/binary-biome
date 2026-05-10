@@ -1,5 +1,7 @@
 ---
 noteId: 1778320495990
+forward:
+  - "[[aws-dms]]"
 ---
 
 # What services handle transactional data (database) ingestion?

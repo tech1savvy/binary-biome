@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497141
+forward:
+  - "[[partition-granularity]]"
 ---
 
 # What is data partitioning in a data lake?

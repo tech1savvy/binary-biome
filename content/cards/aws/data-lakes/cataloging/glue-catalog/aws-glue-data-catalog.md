@@ -1,5 +1,7 @@
 ---
 noteId: 1778320495141
+forward:
+  - "[[glue-table-location]]"
 ---
 
 # What is the AWS Glue Data Catalog?

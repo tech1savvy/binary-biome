@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496565
+forward:
+  - "[[data-quality-guardrails]]"
 ---
 
 # How does cost differ between data warehouse and data lake?

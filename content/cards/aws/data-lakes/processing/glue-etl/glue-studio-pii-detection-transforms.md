@@ -1,5 +1,7 @@
 ---
 noteId: 1778392186144
+forward:
+  - "[[glue-databrew]]"
 ---
 
 # What built-in PII transforms does Glue Studio have?

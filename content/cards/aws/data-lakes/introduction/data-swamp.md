@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496415
+forward:
+  - "[[data-types]]"
 ---
 
 # What is a data swamp?

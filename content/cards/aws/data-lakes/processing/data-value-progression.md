@@ -1,5 +1,7 @@
 ---
 noteId: 1778320498140
+forward:
+  - "[[columnar-data-formats]]"
 ---
 
 # How does data value change as it moves from raw to processed?

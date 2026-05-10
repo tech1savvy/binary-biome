@@ -1,5 +1,7 @@
 ---
 noteId: 1778320495165
+forward:
+  - "[[glue-crawler]]"
 ---
 
 # What is the table location property in AWS Glue?

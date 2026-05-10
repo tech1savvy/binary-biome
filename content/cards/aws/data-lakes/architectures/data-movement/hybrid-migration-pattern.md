@@ -1,5 +1,7 @@
 ---
 noteId: 1778320494515
+forward:
+  - "[[data-movement-modern-architecture]]"
 ---
 
 # What is the hybrid migration pattern for moving to a data lake?

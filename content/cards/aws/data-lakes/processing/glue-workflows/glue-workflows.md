@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497590
+forward:
+  - "[[glue-workflow-benefits]]"
 ---
 
 # What is an AWS Glue workflow?

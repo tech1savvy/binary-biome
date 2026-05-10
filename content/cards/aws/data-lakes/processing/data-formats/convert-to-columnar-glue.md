@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496890
+forward:
+  - "[[parquet-sorted-column-optimization]]"
 ---
 
 # How do you convert data to columnar format in AWS?

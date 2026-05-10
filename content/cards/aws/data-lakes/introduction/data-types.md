@@ -1,5 +1,7 @@
 ---
 noteId: 1778320498115
+forward:
+  - "[[data-pipeline-overview]]"
 ---
 
 # What are the common data types in a data lake?

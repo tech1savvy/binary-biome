@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496941
+forward:
+  - "[[convert-to-columnar-glue]]"
 ---
 
 # How does row-based (CSV) vs columnar storage affect queries?

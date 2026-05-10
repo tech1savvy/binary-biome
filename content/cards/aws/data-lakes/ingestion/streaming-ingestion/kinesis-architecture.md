@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496266
+forward:
+  - "[[raw-vs-transformed-data]]"
 ---
 
 # What does a typical Amazon Kinesis ingestion architecture look like?

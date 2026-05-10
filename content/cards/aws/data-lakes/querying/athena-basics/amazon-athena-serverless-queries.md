@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497741
+forward:
+  - "[[amazon-athena-pricing]]"
 ---
 
 # How does Amazon Athena query a data lake?

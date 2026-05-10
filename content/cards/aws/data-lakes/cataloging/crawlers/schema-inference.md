@@ -1,5 +1,7 @@
 ---
 noteId: 1778320495065
+forward:
+  - "[[data-value-progression]]"
 ---
 
 # How does AWS Glue perform schema inference?

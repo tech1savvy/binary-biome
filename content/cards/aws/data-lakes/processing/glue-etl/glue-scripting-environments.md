@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497465
+forward:
+  - "[[glue-script-authoring-options]]"
 ---
 
 # What scripting environments does AWS Glue ETL support?

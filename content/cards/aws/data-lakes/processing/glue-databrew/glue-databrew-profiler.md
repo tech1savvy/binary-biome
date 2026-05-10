@@ -1,5 +1,7 @@
 ---
 noteId: 1778392175273
+forward:
+  - "[[glue-databrew-data-quality-rules]]"
 ---
 
 # What does the AWS Glue DataBrew profiler do?

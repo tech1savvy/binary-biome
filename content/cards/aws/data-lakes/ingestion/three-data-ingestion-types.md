@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496314
+forward:
+  - "[[data-ingestion-services]]"
 ---
 
 # What are the three main data types for ingestion?

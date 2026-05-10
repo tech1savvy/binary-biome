@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497415
+forward:
+  - "[[glue-scripting-environments]]"
 ---
 
 # How can you trigger an AWS Glue ETL job automatically?

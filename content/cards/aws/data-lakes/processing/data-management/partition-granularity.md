@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497115
+forward:
+  - "[[compression]]"
 ---
 
 # What is the coffee grinding analogy for partitioning and compaction?

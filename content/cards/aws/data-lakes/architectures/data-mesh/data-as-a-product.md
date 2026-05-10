@@ -1,5 +1,7 @@
 ---
 noteId: 1778320494288
+forward:
+  - "[[amazon-data-zone]]"
 ---
 
 # What does it mean to treat data as a product?

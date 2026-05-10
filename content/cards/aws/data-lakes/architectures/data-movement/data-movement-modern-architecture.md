@@ -1,5 +1,7 @@
 ---
 noteId: 1778320494465
+forward:
+  - "[[modern-data-architecture-categories]]"
 ---
 
 # What problem does modern data architecture solve for data movement?

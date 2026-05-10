@@ -1,5 +1,7 @@
 ---
 noteId: 1778320494913
+forward:
+  - "[[data-analytics-lens]]"
 ---
 
 # What is the AWS Well-Architected Framework?

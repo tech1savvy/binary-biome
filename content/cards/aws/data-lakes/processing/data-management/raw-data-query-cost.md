@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497165
+forward:
+  - "[[non-uniform-data-problem]]"
 ---
 
 # Why not query raw data directly in a data lake?

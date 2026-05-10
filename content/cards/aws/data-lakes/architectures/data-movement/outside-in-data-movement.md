@@ -1,5 +1,7 @@
 ---
 noteId: 1778320494590
+forward:
+  - "[[outside-in-gaming-example]]"
 ---
 
 # What is outside-in data movement?

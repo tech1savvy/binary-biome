@@ -1,5 +1,7 @@
 ---
 noteId: 1778320495866
+forward:
+  - "[[core-component]]"
 ---
 
 # What are the steps of a data lake pipeline?

@@ -1,5 +1,7 @@
 ---
 noteId: 1778392186171
+forward:
+  - "[[glue-studio-pii-detection-transforms]]"
 ---
 
 # What does a typical Glue Studio visual ETL flow look like?

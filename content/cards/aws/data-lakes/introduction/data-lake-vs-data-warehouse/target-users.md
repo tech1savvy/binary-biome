@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496689
+forward:
+  - "[[real-time-answers]]"
 ---
 
 # Who uses data warehouses vs data lakes?

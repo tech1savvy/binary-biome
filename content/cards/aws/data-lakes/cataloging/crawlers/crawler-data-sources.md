@@ -1,5 +1,7 @@
 ---
 noteId: 1778320494989
+forward:
+  - "[[glue-classifiers]]"
 ---
 
 # What data sources can an AWS Glue Crawler connect to?

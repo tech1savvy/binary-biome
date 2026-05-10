@@ -1,5 +1,7 @@
 ---
 noteId: 1778320495941
+forward:
+  - "[[aws-sct]]"
 ---
 
 # What is AWS Database Migration Service (DMS)?

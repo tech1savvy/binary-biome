@@ -1,5 +1,7 @@
 ---
 noteId: 1778320494540
+forward:
+  - "[[inside-out-neptune-example]]"
 ---
 
 # What is inside-out data movement?

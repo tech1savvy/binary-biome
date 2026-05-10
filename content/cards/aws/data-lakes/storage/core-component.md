@@ -1,5 +1,7 @@
 ---
 noteId: 1778320498165
+forward:
+  - "[[separation-of-storage-compute]]"
 ---
 
 # Why is Amazon S3 the core storage component for data lakes?

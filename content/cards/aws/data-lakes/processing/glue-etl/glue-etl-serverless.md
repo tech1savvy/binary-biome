@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497341
+forward:
+  - "[[glue-jobs/definition]]"
 ---
 
 # How did ETL work before AWS Glue?

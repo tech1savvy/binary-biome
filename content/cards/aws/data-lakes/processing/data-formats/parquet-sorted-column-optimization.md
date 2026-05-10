@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496915
+forward:
+  - "[[partitioning]]"
 ---
 
 # How does Parquet optimize queries on sorted columns?

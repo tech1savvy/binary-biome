@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496140
+forward:
+  - "[[amazon-appflow]]"
 ---
 
 # What AWS services ingest files and objects into a data lake?

@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497490
+forward:
+  - "[[glue-etl-basics]]"
 ---
 
 # What problem does data transformation solve?

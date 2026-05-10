@@ -1,5 +1,7 @@
 ---
 noteId: 1778320495189
+forward:
+  - "[[aws-glue-data-catalog]]"
 ---
 
 # Why is cataloging important in a data lake?

@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496764
+forward:
+  - "[[data-lake-functions]]"
 ---
 
 # What does "democratization of data" mean?

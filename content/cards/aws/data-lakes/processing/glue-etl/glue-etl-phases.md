@@ -1,5 +1,7 @@
 ---
 noteId: 1778320497316
+forward:
+  - "[[glue-etl-serverless]]"
 ---
 
 # What are the three phases of an ETL job in AWS Glue?

@@ -1,5 +1,7 @@
 ---
 noteId: 1778320496241
+forward:
+  - "[[kinesis-architecture]]"
 ---
 
 # What is Amazon Kinesis?

@@ -1,5 +1,7 @@
 ---
 noteId: 1778320495963
+forward:
+  - "[[streaming-data-ingestion]]"
 ---
 
 # What is AWS Schema Conversion Tool (SCT)?
