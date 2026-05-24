@@ -1,4 +1,4 @@
-sync: cards
+sync:
   npx quartz sync
 
 update:
