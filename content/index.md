@@ -8,8 +8,7 @@ date: 2026-04-25
 
 > I am a DevOps and Backend Engineer  by trade.
 
-Checkout my projects at [[works/projects.md]]
-and certifications at [[works/certifications.md]]
+Checkout my [[works/projects.md | projects]] , [[works/certifications.md | certifications]], and [[resume.pdf | resume]].
 
 ---
 
