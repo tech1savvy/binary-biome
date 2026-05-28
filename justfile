@@ -1,3 +1,6 @@
+list:
+  just --list
+
 sync:
   npx quartz sync
 
