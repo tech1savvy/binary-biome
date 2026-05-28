@@ -31,6 +31,7 @@ date: 2026-04-25
 
 - [Learn Docker](https://www.boot.dev/certificates/0c2483d9-ef45-492c-aaf4-137e63492db8) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 - [Learn CI/CD with GitHub Actions, Docker and Go](https://www.boot.dev/certificates/6952bebf-a18d-44e8-9eed-9c3ded657073) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
+- [Learn Kubernetes](https://www.boot.dev/certificates/7fb2492a-a84e-41f0-b993-cec7535da391) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)
 
 ### Backend Development in TS
 
